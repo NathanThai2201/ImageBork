@@ -2,7 +2,7 @@ import numpy as np
 import os
 from matplotlib import pyplot as plt
 from skimage import io, filters
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft,transforms
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -24,8 +24,10 @@ def landing_page():
     print(" Welcome to ImageBork!!")
     print('************************')
     print('To start, press S')
+    print('To see the Manual, press M')
     print('To exit, press X')
-    print('************************')  
+    print('************************') 
+    print("") 
     landing_input = input('Input:').lower()
     os.system('cls' if os.name=='nt' else 'clear')
     output = 0
@@ -33,6 +35,8 @@ def landing_page():
         return selection_page()
     elif landing_input == "x":
         output = 0
+    elif landing_input == "m":
+        return manual()
     else:
         input('Unrecognized input, press any key to try again')
         return landing_page()
@@ -43,11 +47,13 @@ def selection_page():
     print(" --- Select a mode! --- ")
     print(" Place image files in the input folder, after processing the images will appear in the output folder.")
     print(" If selected image sequence mode, name the files from 0001 to xxxx")
+    print("")
     print('************************')
     print('To select single/batch images, press I')
     print('To select animated image sequence, press A')
     print('To return, press R')
     print('************************')  
+    print("")
     selection_input = input('Input:').lower()
     os.system('cls' if os.name=='nt' else 'clear')
     if selection_input == "i":
@@ -66,31 +72,70 @@ def image_page():
     print(" Also be aware that there is no error checking, thus inputs must be precise")
     print("")
     print('************************')
-    print("A. Use Frequency modulation             --- a")
-    print("B. Use Kuwahara filter                  --- b")
-    print("C. Use Gaussian Blur                    --- c")
-    print("D. Use Threshold pixel sorter           --- d")
-    print("E. Use Ordered dithering                --- e")
-    print("F. Use Halftone dithering               --- f")
-    print("G. Use Floyd-Steinberg dithering        --- g")
-    print("H. Use Chromatic Aberration             --- h")
-    print("I. Use Image to Ascii                   --- i")
+    print("         I. Transforms")
+    print("A. Use height and width scaling         --- a")
+    print("B. Use left right or up down flip       --- b")
+    print("C. Use clockwise rotation               --- c")
+    print("         II. Filters")
+    print("D. Use Frequency modulation             --- d")
+    print("E. Use Kuwahara filter                  --- e")
+    print("F. Use Gaussian Blur                    --- f")
+    print("G. Use Threshold pixel sorter           --- g")
+    print("H. Use Ordered dithering                --- h")
+    print("I. Use Halftone dithering               --- i")
+    print("J. Use Floyd-Steinberg dithering        --- j")
+    print("K. Use Chromatic Aberration             --- k")
+    print("L. Use Image to Ascii                   --- l")
     print('************************')  
     print("")
-    print("EX: b,c,e(1),d,g")
+    print("EX: e f h g k")
     print("")
-    print(" type\"ret\" to return, type\"help\" to open manual")
     image_input = input('Input:').lower()
     os.system('cls' if os.name=='nt' else 'clear')
     if image_input == "ret":
         return
-    if image_input == "help":
-        manual()
     else:
         return image_processing_page(image_input)
+    
 def manual(): 
-
+    os.system('cls' if os.name=='nt' else 'clear')
+    image_input = ""
+    while image_input != "r":
+        print(" --- Manual --- ")
+        print("")
+        print('************************')
+        print("A. Scaling a(height scale number, width scale number)")
+        print("     - Scale numbers are between 1 and 9")
+        print("     - Leave field empty for default settings")
+        print("     - EX: a(2,4)")
+        print("B. Flipping b(direction string)")
+        print("     - direction is either \"ud\" or \"lr\"")
+        print("     - Leave field empty for default settings")
+        print("     - EX: b(lr)")
+        print("C. Rotation c(rotation angle number)")
+        print("     - Angle number is between 0 and 360")
+        print("     - Leave field empty for default settings")
+        print("     - EX: c(90)")
+        print("H. Ordered dithering --- h(palette number,spread float)")
+        print("     - Palette number is between 0 and 5")
+        print("     - Spread float is between 0.0 and 0.1")
+        print("     - Leave field empty for default settings")
+        print("     - EX: h(2,0.1)")
+        print("J. Floyd-Steinberg dithering --- j(palette number)")
+        print("     - Palette number is between 0 and 5")
+        print("     - Leave field empty for default settings")
+        print("     - EX: j(2)")
+        print('************************')  
+        print("")
+        print("Press 1 to view palettes")
+        print('To return, press R')
+        print("")
+        image_input = input('Input:').lower()
+        os.system('cls' if os.name=='nt' else 'clear')
+        if image_input == "1":
+            od.show_palettes()
     return
+
 def image_processing_page(effect_chain):
     folder_path = "./input"
     images = []
@@ -113,35 +158,64 @@ def image_processing_page(effect_chain):
         """
         effect chain
         """
-        effects = effect_chain.split(',')
+        effects = effect_chain.split(' ')
         for effect in effects:
             if effect[0] == 'a':
-                img = fm.main(img)
-            if effect[0] == 'b':
-                img = kwhr.main(img)
-            elif effect[0] == 'c':
-                img = gaus.main(img)
-            elif effect[0] == 'd':
-                img = sort.main(img)
-            elif effect[0] == 'e':
+                h_scale=1
+                w_scale=1
                 if len(effect)>=3:
-                    if effect[2] == '0':
-                        img = od.main(img,cset=0)
-                    elif effect[2] == '1':
-                        img = od.main(img,cset=1)
-                    elif effect[2] == '2':
-                        img = od.main(img,cset=2)
-                    else:
-                        img = od.main(img)
+                    if effect[2].isnumeric():
+                        h_scale = int(effect[2])
+                if len(effect)>=5:
+                    if effect[4].isnumeric():
+                        w_scale = int(effect[4])
+                img = transforms.scaling(img,h_scale,w_scale)
+            elif effect[0] == 'b':
+                if len(effect)>=4 and effect[2:4]=="ud":
+                    img = transforms.flipping(img,"ud")
                 else:
-                    img = od.main(img)
+                    img = transforms.flipping(img)
+            elif effect[0] == 'c':
+                angle=90
+                if len(effect)>=3:
+                    if effect[2].isnumeric():
+                        angle = int(effect[2])
+                if len(effect)>=4:
+                    if effect[2:4].isnumeric():
+                        angle = int(effect[2:4])
+                if len(effect)>=5:
+                    if effect[2:5].isnumeric():
+                        angle = int(effect[2:5])
+                img = transforms.rotation(img,angle)
+            elif effect[0] == 'd':
+                img = fm.main(img)
+            elif effect[0] == 'e':
+                img = kwhr.main(img)
             elif effect[0] == 'f':
-                img = haft.main(img)
+                img = gaus.main(img)
             elif effect[0] == 'g':
-                img = fsd.main(img)
+                img = sort.main(img)
             elif effect[0] == 'h':
-                img = chroma.main(img)
+                spread = 0.1
+                cset = -1
+                if len(effect)>=7:
+                    if effect[4].isnumeric() and effect[4].isnumeric():
+                        spread = float(effect[4:7])
+                if len(effect)>=3:
+                    if effect[2].isnumeric():
+                        cset = int(effect[2])
+                img = od.main(img,cset,spread)
             elif effect[0] == 'i':
+                img = haft.main(img)
+            elif effect[0] == 'j':
+                cset = -1
+                if len(effect)>=3:
+                    if effect[2].isnumeric():
+                        cset = int(effect[2])
+                img = fsd.main(img,cset)
+            elif effect[0] == 'k':
+                img = chroma.main(img)
+            elif effect[0] == 'l':
                 img = asc.main(img)
 
 
