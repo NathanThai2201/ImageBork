@@ -80,25 +80,6 @@ def process_image(img, omega, phase_mult, quantval=30, lowpass_cutoffs=(0.25, 0.
             result_img[y, x] = 1 - v if negate else v
 
     return img_as_ubyte(result_img)
-
-def vivid_light_blend(img1, img2):
-    strength = 0.4
-    img1 = img_as_float(img1)
-    img2 = img_as_float(img2)
-    
-    # Ensure the images are the same size
-    if img1.shape != img2.shape:
-        img2 = np.resize(img2, img1.shape)
-    
-    # Apply vivid light blending
-    blend_light = np.where(img2 == 0, 1, np.clip((img1 / (0.99 - img2)) * strength, 0, 1))
-    blend_dark = np.where(img2 == 1, 0, np.clip((1 - (0.99 - img1) / img2) * strength, 0, 1))
-    blended = np.where(img2 < 0.5, blend_dark, blend_light)
-    # plotter(blended,"A")
-    blended = np.clip(blended, 0, 1)  # Ensure values are within [0, 1]
-    
-    return img_as_ubyte(blended)
-
 def multiply_blend(img1, img2):
     img1 = img_as_float(img1)
     img2 = img_as_float(img2)

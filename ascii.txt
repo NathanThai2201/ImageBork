@@ -1,26 +1,65 @@
-இஇஇஇஇஇஇஇஇஇឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝ
-இஇஇஇஇஇஇஇឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝ
-இஇஇஇஇஇஇஇஇஇஇᛝc.      ..ᛟஇឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝ
-இஇஇஇஇஇஇஇc...              .ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝ
-இஇஇஇஇஇஇ .: :.                .ឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝ
-ᛟᛟឱஇஇஇᛟ.:::  ..                .ឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝ
-ᛟcឱឱឱឱឱ..c:  .     .::          cឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝឱឱឱឱᛝᛝᛝ
- .ᛝឱஇឱឱឱ:..     ..::. . .     . .ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-c.ᛝឱឱ      ....:::c:....  .. . .ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝ
-:ឱஇឱឱ    .:ccc:..:ᛟooc... :...ᛟឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱឱ :::c:.. ::.:ooo:.::c:.ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱឱឱᛟ. :oc:.coᛟoooc:coc:::ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱឱឱឱஇcooocccc::cccc:ᛟoc..ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱឱឱஇஇoo..:oᛟoooccccooco .ᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱஇஇஇឱஇ:.......cc:ccccoᛟ::ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ឱឱឱឱឱឱឱឱឱឱឱo:..:::.:::c:.cooᛟoஇឱឱocឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱ
-ᛝឱឱឱឱឱឱឱឱឱឱឱஇcccc::::..::cᛟc:c . ....:. ..:ឱឱឱឱឱឱឱឱ
-oஇஇឱឱឱឱឱឱឱឱឱឱc...   .:::cc:c:   ........  ....:cᛝឱឱ
-oឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇ::::cc:...  c. ...      .... ....
-oឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝ:c::c:...    ᛟ..          ...   ..
-oᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱcc.ccc::       .... .      ..   .  
-cᛟឱஇஇஇஇஇஇஇஇஇஇஇஇ::  .:cc...     .. ..    ....       
-ooឱឱឱឱឱឱឱឱឱឱឱo . . ...:  ...       ..  .  .        
-ooஇឱឱឱឱឱឱឱឱឱ: .. .ccc.. .  ....     ...  .         
-ooឱឱឱឱឱឱឱឱឱ:  .  :::c:  ..    .         .          
-ᛟᛟᛝឱឱឱឱឱឱឱ.  ..  :co:   .               .          
+ᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟccc::::::cccccccccccccccccccccc:ccccco:ccccccccccccccccccccccc:cccccccccooooooococoococcccccccccccccccccccccccccccc:cccccccccc:cccc:::::::::::::::.....:.::::::::::::
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟcccccc:::ccccccccccccccccococcccocccccccocccccccoccccccccccccccccccccoc:ccoooccccccc:ccccccococcococcccccccccccccc:ccccccc::cc:c:c:::::::::::::.......::::::::::::::
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝccccccc:cccoocccococccocoocccocoocococccoococooocooococcococccocccoccccoooooo:cccocccccccccccccccccccccccccccccccccccccccccccccccc:c::::::::.....:::::::::::::::c::c
+ᛝᛝᛝᛝឱឱឱឱឱᛝᛝឱឱᛝᛝឱᛝᛝᛝឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝccccccccccccoooocoooococooooocooccocoococcocococcccoooococcooccoooccoccccoooccocccccccccoccccccccccccccccccccccccccccccccccccccccccccccc::.....::::::::c:::::ccccccc
+ᛝᛝឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝឱᛝᛝឱឱឱឱឱឱᛝឱឱឱᛝᛝឱocccccccccccooooooooooooooooooccoooooooocccocococoococooccooococococcocccoooccoccoococcocccccccccccccccccccccccccccccccccccccccc:ccccc:..:::::::::cccc:c:ccccccccccc
+ឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱoooccccccocoocooooocoooooooooocoooooocooocoocoocooooooooocoocoocoocoococooooooooocococccoococccooccccccccccccccccccccccccccccccccccc:c::::::::c::ccccccccccccccccccc
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱoooooccocooooooooooooooooooooooooooooooooooooooooooooooocoooocoocooooocoooococococcccccocccoococcccccccccoccoooccoooccccccccccoccccccc:::::cccccccccccccccccccccccoc
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟoooooocooooooooooooooooooooooooooooooooooooooooooooooooooooccooocooooooooooocoooocoooocooocoocccccccccccoooooooooooooooooooooccccccccccccccccccccccccccoooccocooooo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝooooooooooooooooᛟoᛟoᛟooooooooooooooooooooooooocooooooooooooocooooooooooooococooooooooccooooooccccooccoooooooooooooooooooooooooocccccccc:cccccccccoccccooooooooooooo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱooooooooooooooooooooooᛟoooooooooooooooooooooooooooooooooooooooooooooooooooooooooocoooooooooooooooooooooooooooooooᛟooᛟᛟoooooooooooocccccccccooccoccocoooooooooooccoo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟooooooooooooooooooooᛟᛟoooooooooooooooooooooooooooooooooocoooooooooooooooooooooooooooooocoooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooooooooocccoooooooooooooooooooooo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟoᛟoooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooᛟᛟoᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooooooooooooooooooooooooo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooᛟᛟᛟᛝᛝឱ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இஇឱឱᛝᛝᛟᛟᛟoooooooooooooooooᛟᛟᛟoooᛟoᛟᛟoo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟooᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooᛟᛟᛟᛟᛝឱ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ᛝᛟᛟooooooooooᛟᛟoooᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟo
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛟᛟoᛟᛟᛟᛝஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ឱᛝᛝᛟᛟᛟᛟᛟoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooᛟᛟᛝᛝ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ᛝᛟᛟooooooᛟoᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛝឱ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ᛝᛟᛟᛟooooooooooooooooooooooooooooᛟoooooooooooooooooooooooooooooooᛟᛝஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛝឱ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இᛝᛟᛟoooooooooooooooooooooooooooᛟooooooooooooooooooooooooooooooᛟᛝឱឱឱஇஇஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ឱᛝᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱឱឱஇஇஇஇஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ᛝᛟooooooooooooooooooooooooooᛟooooooooooooooooooooooooooooooooᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱஇᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟooooooooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooooooooooooooooooᛟoooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟoᛟooooooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooooooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛝᛟឱឱឱஇஇஇஇஇஇஇஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இ▓இஇஇᛝooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooocccᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇឱឱឱឱឱឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟᛝឱឱஇஇஇஇ▓இ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இឱoooooooooooooooooᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟoᛟoᛟoccccc::::cccccocooooooocccccccccccccccc::..::ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛝឱஇஇஇஇஇஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இoooooooooooooooooᛟᛟᛝ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இᛟoooᛝᛟᛟᛟᛟooᛟooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooocccccc:::::::cccᛝᛟᛝᛟᛟᛝᛟᛝᛟᛟᛟᛟᛟᛝᛝᛟᛟᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱஇឱឱឱᛟᛟᛟᛟᛟᛟᛟᛝឱឱஇஇஇஇஇஇஇ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓இஇoooooooooooooooᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟooooᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooccc::cccoooᛝᛝᛝᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛟᛝᛟᛟᛝᛝᛟᛟᛟᛟᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟឱឱឱஇஇஇஇஇஇஇஇஇஇஇ▓▓▓இ▓▓இ▓▓இ▓இஇஇஇஇஇஇocccccooooooooooᛟᛟឱ▓▓▓▓▓▓▓▓▓▓▓▓இᛟᛟᛟooooccoឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟoooooccccooooᛟᛝᛝᛝᛟᛟᛟᛟᛟᛝᛟᛟᛟᛝᛝᛟᛟᛝᛝᛝᛟᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱឱឱஇឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟឱឱឱឱឱឱஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇᛟoooooᛟoooooooooᛟᛟᛝឱឱឱឱឱឱឱᛝᛝᛝឱ▓▓ᛟᛟᛟᛟoooccoឱឱឱឱឱឱឱឱឱឱឱᛝឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟoooccooooᛟᛟᛝᛝᛝᛟᛝᛝᛝᛝᛟᛟᛟᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛟᛝᛟᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇឱᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝឱᛝឱឱឱឱឱឱឱஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇஇឱᛝᛝᛟᛟᛟᛟᛟccooooooᛟᛟឱஇஇஇஇஇஇឱឱឱ▓▓இஇ▓ᛝᛝᛝᛟᛟᛟᛟᛟooឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟooocooooᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛟᛝᛝᛟᛟᛟᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝឱឱឱឱឱឱឱឱឱឱஇஇឱஇஇஇஇஇஇஇឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝoooooᛟᛟឱஇஇ▓▓▓▓▓▓இஇ▓இஇஇஇஇஇឱᛝᛝᛝᛝᛟᛟᛟᛟᛟឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟooocoooᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛟᛝᛟᛝᛝᛝᛝᛟᛟᛟᛝᛝᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝឱឱஇஇ▓▓▓▓▓▓இஇஇஇஇஇឱஇஇឱឱᛝᛝᛝᛝᛝᛝᛟᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟooocoooᛟᛟᛟᛝᛝᛝᛟᛟᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛟᛟᛟᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱᛝឱឱឱᛝឱᛝᛝᛝᛝᛝឱᛟᛟឱឱឱឱឱᛟឱឱឱឱឱឱஇஇஇឱஇឱឱឱឱឱឱឱឱᛝឱᛝᛝᛝᛝᛟᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟooocoooᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛝᛟᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝឱᛝᛝᛝᛝᛝឱᛟᛟᛝᛝᛝᛝឱᛟᛝᛝᛝᛝᛝᛟឱឱឱᛝឱឱឱឱឱឱឱឱឱᛝᛝᛝᛝᛝᛝᛟᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟooocccoooᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛟᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛝᛟᛝᛟឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝឱᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝឱᛝឱᛝឱᛝឱឱᛝឱឱឱឱᛝឱᛝឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛟᛟooccccooooᛟᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛟᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝᛟᛟᛝᛝᛝᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝoooᛟᛟᛟᛟooᛟᛟᛟᛟoᛝᛝᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛝᛝឱᛝឱᛝឱᛝᛝឱᛝឱᛝᛝឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛟᛟoᛟooocccccoooᛟᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛝooooooᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛟᛟᛟoᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟoᛟooᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟoooooocccccccooᛟᛝᛝᛟᛟᛟᛟᛟᛟᛝᛟᛝᛟᛟᛝᛟᛟᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛟᛟᛟᛝᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛝᛟᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝoᛟoᛟᛟᛟcoooooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟoᛟᛟᛟoooocccᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooooooccc::ccccoᛝᛝᛝᛟᛟᛝᛝᛟᛟᛝᛝᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝccccoooooooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟooooᛟᛟᛟᛝᛟᛟᛝᛝᛟᛟᛟᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooooooocccc:::::ccccᛝᛝᛝᛟᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛟᛟᛟᛝᛝᛝᛟᛟᛟᛟᛝᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛟᛝᛟᛟᛟᛝᛟooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooococccccc::::::::cccᛟᛟᛟᛟᛝᛝᛝᛝᛟᛟᛟᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛟᛟᛝᛝᛝᛟᛝᛟᛟᛝᛝᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟoᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟcccoooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooooccccccccc::::::::::::::::::::::::.........cᛝᛝᛝᛟᛟᛝᛝᛝᛝᛟᛟᛝᛝᛝᛟᛟᛟᛟᛟᛟᛝᛟᛟᛝᛝᛝᛝᛟᛝᛟᛝᛟᛝᛝ
+ឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟooᛟᛟᛟᛟocccccccccccccccccccccccooooooooooooooooooooooooooooooᛟooooooooooooooooooooooooooooooooooooooooccccccccccccccccccc:::cᛝᛝᛝᛟᛝᛝᛟᛝᛟᛟᛟᛝᛝᛟᛟᛟᛟᛝᛝᛟᛟᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟ
+ឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooooooooooooooooooooooooooooooooooooooooooᛟoooooooooooooooooooooooooooccccccᛟᛝᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛟᛟᛝᛝᛟᛝᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱឱឱឱឱឱឱឱឱឱᛝᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟooᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooooooooooooooooooooooooooooooooooooooooooooᛟᛟoᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ᛝᛝឱᛝឱឱឱឱឱឱឱᛝᛝឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛟᛟᛟᛟᛟooᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛟooooooooooooooooooooooooooooooooooooooooooooᛟᛟoᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooᛟoooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱឱᛝឱឱឱឱឱᛝឱឱឱឱឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱᛝឱឱឱᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooooooooooooooooooooooooooooooooooooooooooooᛟooooᛟᛟoᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱឱᛝឱឱឱឱឱឱᛝឱឱឱឱឱឱᛝឱឱឱឱឱឱᛝឱឱឱឱឱឱᛝᛝᛝᛝឱᛝឱᛟᛟᛟᛟᛟᛟᛟᛟooooooᛟoᛟᛟoᛟoᛟoooᛟᛟᛟᛟoooooooooooooooooooooooooooococcocooocooooooooooooooooooooooooooᛟoᛟᛟooᛟooooᛟoᛟᛟᛟᛟᛟᛟoᛟᛟᛟooᛟᛟooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ឱᛝᛝᛝᛝឱᛝᛝᛝᛝᛝᛝᛝឱឱឱᛝᛝᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱᛝᛝឱឱឱឱᛝᛟᛟᛟᛟᛟᛟᛟᛟooooooᛟoooᛟooooooooooooooooooooooooooooooocoocoococcccccccoocoooooooooooooooooooooooooooooooooooooooooooooooooooooooᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ᛝឱᛝᛝᛝᛝᛝᛝᛝᛝឱᛝឱឱឱឱᛝᛝᛝᛝឱឱᛝᛝឱᛝឱឱឱឱᛝᛝឱឱឱឱᛝᛝᛟᛟᛟᛟooooooooooooooooooooooooooooooooooooooooocccccoccoocccccooooccccooooccoooooooooooooooooooooooooooooooooooooooooooooooooᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝឱᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟoᛟᛟoooooooooocooooooooooooooooooooocococccoccccoocccccccccoccoccocccccccooooooooocoooooooooooooooooooooooooooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟ
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟoᛟᛟᛟoccoccccoccoccooooooooocooococccccccccccccccccccccccccccccccccccocoococcococcoocoooooooococooooooooooooooocccooccccoᛟᛟᛟoᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟ
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟoᛟoooᛟocccccccccccccocccccococooccccocccccocccccccccccocccccccccccccccocccooococccccococcocccocococoocoooocoooooococcccccoooooooᛟoooᛟᛟᛟᛟᛟooooᛟoᛟᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟ
+ᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝoooooooocccccccccccccccccccccccccccoocccccccccoccccccccoccccccccococccccococooccococccccoccoccococcoococcccocccccccccccccc:coooooooooᛟooooᛟᛟᛟᛟoᛟᛟᛟᛟᛟᛟoooᛟᛟᛟᛟᛟᛟ
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝoooooooocc::ccccccccccccococccccccccccccoccccccccccccccccccccccccccccococccccococccccccooccoococcoccoccocccocccccccccccccc:::::.oooooooooooooooooᛟoᛟooooooooᛟo
+ᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝoooooooo:::c:cc:ccccccccccccccccccccccocccccccccccccccccccccccccccccccccccccocccocccccococoocoococcccccccoccoccccccccccccc:::::::..:oooooooooooooooooooooooooo
+ᛝᛟᛝᛟᛟᛟᛝᛝᛝᛝᛝᛟᛟᛝᛟᛟᛟᛝᛟᛟᛝᛝᛝᛝᛝᛟᛟᛝᛝᛝᛝᛝᛟᛝᛝᛝᛝᛟᛟooooccc::::ccccccccccccccccccccccccccccc:cccccoocccccccccccccccc:ccccccococccccocccccccccccoccoccccooccocccccccccccccc:ccccc:::::::...cccoooooooooooooooooooo
+ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛝᛝᛟᛟooocooc:::ccccccccccccccccccccccccccccccccccccocccoccccccocc:cccccococcccocccocccoccoccoocccoccccccccooccccoocccccccccc:cccc:c::::::......cooocooocoooooooooo
+ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooccc::ccccc:ccccccccccccccccocccccc:cccccccccccccccccccc:ccccocccccccccocccoccccccccccocccccoccccccccocccccccccccocccccccc::cc::::::::......coooococooooooo
+ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟccc::ccccccccccccccccccccccccccccccccccccccocccc:cccccocc:c:cccccccooocccccooccccccccc:cccocccccccccccoococccccccccccccccc::cc:cc::::::::::......:ccccoooooco
+ᛟᛟᛟᛟᛟooᛟoooᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟocc::c:cc:c:cccccccccccccocccc:cccc:c:c:cccccccccccccccccccccccccocccoccccocccccccccoccoccccoo:cccccccccccccocccccocc:ccccccc:cccccc:::::::::::.:.....:ccccoco
+oooooooooooooooooooooooooooooooocc::::::::::ccc:c:ccccc:cccccc:ccccc:ccccccccccccccccccccoccccccccccccccccccccooocccocococ:ccccccccoccccc:cocccccccccccccccccccccccccc:c:::cc::::::::::.:.......cccc
+oooooooooocc::::::.:::::::.:::::::::::c:ccccccccc:ccccoccccccccc:cccccccccccccccccccoocccc:ccccc:cc:cc:cccooooccccocooccc::cccco:ccccc:cccccoccccoccoccc::ccccc:c:ccc:cc:cc:::c:::::::::.::::.......
+.::.:.:::::::::::::::::::c::::::c:c::::ccc:c:c:ccccccccccccc:ccccccoccccc:ccccccoccccc:ccc:cc:ccccocc::c:ccccc:ccoococccc:cocccccoooocccccoc::cccoooccccc:ccccc:cccccc::::cc:::::c::::::::::........
+::::::::::::::c:::::c:::::::::cc::::::ccc:cc:ccc:cc:ccccccc:cccc:c::cccccccc::ccccc:cc:cc:::ccoccccccccccococ::::cccc:cccccccc:cccoccccococccc:cccooccccc:ccc:ccc:cccc:::cccc:c:::::c:::::::::::....
+::::::::::.:::.:::::c:::.::cc::::::ccc::::cccc::c:ccccc:c::cccc:::cccccc:::cccccc::ccccc:c:c:ccooocc:ccc:c:c:oocc::cccccccccccc::cc:occc:cccco:c:cc::o:c:cc:ccccc:cccccccc::cccccc::::::::::::::::::
+c:::::::c::::::::c::::::cccc:cccccccc::c:::cccc:ccccccccccccccccccc::c:ccccccccccccc:ccoc:c:cc::cocccc::ccccc::cooccccccccccccocccccoooc:cccccc::ccc:::c:c:cccccco:c:c:cc:cc::::::c:cc:::::::::::..:
+:::.::::::::::c::::c:::::cc:c::c:c:ccc::cc::c:cc:::c:c:c::cccc:::cco:ccc:c:ccc:ccocc:cccc::ccccccccccc::::c:ccoccccccoc:c:c:ccocc:c:ccc:c:cocccoooc:::cc:ccccc::ccccc:cccc:::cc:.:::::.:::::.:::::::
+::::::.:::c:::::::::::::::::c:::::::c:c::::ccccccc:cccc:cc::::ccc::::c:cccc:cc::::cocc:cc:ccoooc::cc.:ccc:ccc::cccccc:cccccoc:cc:c:ccc:cccocc::.cc::cccc::::cc:cc:::c:::cc::c::::::ccc:.:::.::::::::

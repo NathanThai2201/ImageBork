@@ -165,7 +165,7 @@ def findPalette(image, nColours):
         colours_img[:, start_id:end_id, :] = colours[col_id, :]
         start_id = end_id
 
-    print(f'colours:\n{colours}')
+    #print(f'colours:\n{colours}')
     #plt.figure(figsize=(10, 5))
     # plt.imshow(colours_img)
     return makePalette(colours)

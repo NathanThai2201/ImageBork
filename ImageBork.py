@@ -2,8 +2,8 @@ import numpy as np
 import os
 import re
 from matplotlib import pyplot as plt
-from skimage import io, filters
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft,transforms
+from skimage import io, util
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -87,6 +87,8 @@ def image_page():
     print("J. Use Floyd-Steinberg dithering        --- j")
     print("K. Use Chromatic Aberration             --- k")
     print("L. Use Image to Ascii                   --- l")
+    print("M. Use Threshold image blender (random) --- m")
+    print("N. Use Invert image                     --- n")
     print('************************')  
     print("")
     print("EX: e f h g k")
@@ -118,12 +120,12 @@ def manual():
         print("     - Leave field empty for default settings")
         print("     - EX: c(90)")
         print("H. Ordered dithering --- h(palette number,spread float)")
-        print("     - Palette number is between 0 and 10")
-        print("     - Spread float is between 0.0 and 0.1")
+        print("     - Palette number is between 1 and 10, -1 for auto generate")
+        print("     - Spread float is between 0.0 and 1.0")
         print("     - Leave field empty for default settings")
         print("     - EX: h(2,0.1)")
         print("J. Floyd-Steinberg dithering --- j(palette number)")
-        print("     - Palette number is between 0 and 10")
+        print("     - Palette number is between 1 and 10, -1 for auto generate")
         print("     - Leave field empty for default settings")
         print("     - EX: j(2)")
         print('************************')  
@@ -216,6 +218,10 @@ def image_processing_page(effect_chain):
                 img = chroma.main(img)
             elif effect[0] == 'l':
                 img = asc.main(img)
+            elif effect[0] == 'm':
+                img = blend.main(img)
+            elif effect[0] == 'n':
+                img = util.invert(img)
 
 
         img_path = os.path.join(folder_path, filenames[i])
