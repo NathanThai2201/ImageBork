@@ -2,7 +2,7 @@ import numpy as np
 import os
 from matplotlib import pyplot as plt
 from skimage import io, filters
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -66,25 +66,31 @@ def image_page():
     print(" Also be aware that there is no error checking, thus inputs must be precise")
     print("")
     print('************************')
-    print("Use Frequency modulation                        --- a")
-    print("Use Kuwahara filter                             --- b")
-    print("Use Gaussian Blur                               --- c")
-    print("Use Threshold pixel sorter                      --- d")
-    print("Use Ordered dithering                           --- e")
-    print("Use Floyd-Steinberg dithering                   --- f")
-    print("Use Chromatic Aberration                        --- g")
-    print("Use Image to Ascii                              --- h")
+    print("A. Use Frequency modulation             --- a")
+    print("B. Use Kuwahara filter                  --- b")
+    print("C. Use Gaussian Blur                    --- c")
+    print("D. Use Threshold pixel sorter           --- d")
+    print("E. Use Ordered dithering                --- e")
+    print("F. Use Halftone dithering               --- f")
+    print("G. Use Floyd-Steinberg dithering        --- g")
+    print("H. Use Chromatic Aberration             --- h")
+    print("I. Use Image to Ascii                   --- i")
     print('************************')  
     print("")
-    print("EX: b,c,e,d,g")
+    print("EX: b,c,e(1),d,g")
     print("")
+    print(" type\"ret\" to return, type\"help\" to open manual")
     image_input = input('Input:').lower()
     os.system('cls' if os.name=='nt' else 'clear')
-    if image_input == "r":
+    if image_input == "ret":
         return
+    if image_input == "help":
+        manual()
     else:
         return image_processing_page(image_input)
-    
+def manual(): 
+
+    return
 def image_processing_page(effect_chain):
     folder_path = "./input"
     images = []
@@ -109,21 +115,33 @@ def image_processing_page(effect_chain):
         """
         effects = effect_chain.split(',')
         for effect in effects:
-            if effect == 'a':
+            if effect[0] == 'a':
                 img = fm.main(img)
-            if effect == 'b':
+            if effect[0] == 'b':
                 img = kwhr.main(img)
-            elif effect == 'c':
+            elif effect[0] == 'c':
                 img = gaus.main(img)
-            elif effect == 'd':
+            elif effect[0] == 'd':
                 img = sort.main(img)
-            elif effect == 'e':
-                img = od.main(img)
-            elif effect == 'f':
+            elif effect[0] == 'e':
+                if len(effect)>=3:
+                    if effect[2] == '0':
+                        img = od.main(img,cset=0)
+                    elif effect[2] == '1':
+                        img = od.main(img,cset=1)
+                    elif effect[2] == '2':
+                        img = od.main(img,cset=2)
+                    else:
+                        img = od.main(img)
+                else:
+                    img = od.main(img)
+            elif effect[0] == 'f':
+                img = haft.main(img)
+            elif effect[0] == 'g':
                 img = fsd.main(img)
-            elif effect == 'g':
+            elif effect[0] == 'h':
                 img = chroma.main(img)
-            elif effect == 'h':
+            elif effect[0] == 'i':
                 img = asc.main(img)
 
 
