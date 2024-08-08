@@ -4,12 +4,19 @@ from scipy import spatial
 from skimage import io, color, img_as_float, img_as_ubyte
 import numpy as np
 import matplotlib.pyplot as plt
-global_palette_names = ["1-Bit Error-4","Deep Maze-7","Vibe-20","Dry Sea-10","Vaporsthetic-20","Nostalgi-2","null"]
+
 global_palettes = [
+    [[0.17464145, 0.14643086, 0.23291974],
+    [0.6904149,  0.69036573, 0.6903731 ]],
     [[1.92868298e-02, 9.38096478e-04, 5.84233472e-02],
     [8.06076926e-01, 7.21792226e-01, 9.80064284e-01],
     [3.55221890e-01, 4.32460307e-01, 8.15861964e-01],
     [7.84039603e-01, 3.65803449e-01, 3.51357714e-01]],
+    [[0.99959041, 0.99959477, 0.99955701],
+    [0.55222725, 0.58357969, 0.44346764],
+    [0.30651727, 0.32467859, 0.24456654],
+    [0.19033398, 0.19956762, 0.16431803],
+    [0.12160319, 0.12160168, 0.12152956]],
     [[0.95902267, 0.99872472, 0.49496017],
     [0.67966629, 0.93308258, 0.58057315],
     [0.4302319,  0.83550905, 0.58056938],
@@ -66,22 +73,9 @@ global_palettes = [
     [0.60165577, 0.34172339, 0.92770791],
     [0.43947732, 0.312579  , 0.65661875],
     [0.38102622, 0.1088964 , 0.49524153],
-    [0.2628932 , 0.14084484, 0.31875141]],
-    [[0.17464145, 0.14643086, 0.23291974],
-    [0.6904149,  0.69036573, 0.6903731 ],]
+    [0.2628932 , 0.14084484, 0.31875141]]
 ]
-def show_palettes():
-    fig, axes = plt.subplots(len(global_palettes), 1, figsize=(10, 5))
-    fig.subplots_adjust(hspace=0.5)
-    fig.suptitle("Color Palettes", fontsize=20)
 
-    for idx, palette in enumerate(global_palettes):
-        ax = axes[idx]
-        ax.imshow([palette], aspect='auto')
-        ax.set_axis_off()
-        ax.set_title(f"{global_palette_names[idx]} | Palette number: {idx}", loc='left',fontsize=10)
-    
-    plt.show()
 def nearest(palette, colour):
     dist, i = palette.query(colour)
     return palette.data[i]
@@ -146,6 +140,8 @@ def main(image,cset=-1):
         palette = makePalette(global_palettes[4])
     if cset==5: 
         palette = makePalette(global_palettes[5])
+    if cset==6: 
+        palette = makePalette(global_palettes[6])
     colours = palette.data
     colours = img_as_float([colours.astype(np.ubyte)])[0]
 
