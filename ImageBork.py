@@ -1,5 +1,6 @@
 import numpy as np
 import os
+import re
 from matplotlib import pyplot as plt
 from skimage import io, filters
 from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft,transforms
@@ -104,25 +105,25 @@ def manual():
         print(" --- Manual --- ")
         print("")
         print('************************')
-        print("A. Scaling a(height scale number, width scale number)")
+        print("A. Scaling --- a(height scale number, width scale number)")
         print("     - Scale numbers are between 1 and 9")
         print("     - Leave field empty for default settings")
         print("     - EX: a(2,4)")
-        print("B. Flipping b(direction string)")
+        print("B. Flipping --- b(direction string)")
         print("     - direction is either \"ud\" or \"lr\"")
         print("     - Leave field empty for default settings")
         print("     - EX: b(lr)")
-        print("C. Rotation c(rotation angle number)")
+        print("C. Rotation --- c(rotation angle number)")
         print("     - Angle number is between 0 and 360")
         print("     - Leave field empty for default settings")
         print("     - EX: c(90)")
         print("H. Ordered dithering --- h(palette number,spread float)")
-        print("     - Palette number is between 0 and 5")
+        print("     - Palette number is between 0 and 10")
         print("     - Spread float is between 0.0 and 0.1")
         print("     - Leave field empty for default settings")
         print("     - EX: h(2,0.1)")
         print("J. Floyd-Steinberg dithering --- j(palette number)")
-        print("     - Palette number is between 0 and 5")
+        print("     - Palette number is between 0 and 10")
         print("     - Leave field empty for default settings")
         print("     - EX: j(2)")
         print('************************')  
@@ -198,20 +199,18 @@ def image_processing_page(effect_chain):
             elif effect[0] == 'h':
                 spread = 0.1
                 cset = -1
-                if len(effect)>=7:
-                    if effect[4].isnumeric() and effect[4].isnumeric():
-                        spread = float(effect[4:7])
-                if len(effect)>=3:
-                    if effect[2].isnumeric():
-                        cset = int(effect[2])
+                match = re.search(r'h\((\d+),([\d.]+)\)', effect)
+                if match:
+                    cset = int(match.group(1))
+                    spread = float(match.group(2))
                 img = od.main(img,cset,spread)
             elif effect[0] == 'i':
                 img = haft.main(img)
             elif effect[0] == 'j':
                 cset = -1
-                if len(effect)>=3:
-                    if effect[2].isnumeric():
-                        cset = int(effect[2])
+                match = re.search(r'\((\d+)\)', effect)
+                if match:
+                    cset = int(match.group(1))   
                 img = fsd.main(img,cset)
             elif effect[0] == 'k':
                 img = chroma.main(img)
