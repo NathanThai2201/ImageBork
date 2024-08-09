@@ -25,7 +25,7 @@ N. Invert image<br>
 A. Temporal chromatic aberration<br>
 
 ## Examples
-Were is some effects certain combinations:
+Here are some results:
 
 ![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
 ![a3](https://github.com/user-attachments/assets/c6416e03-ecc7-47f8-8283-763660472c0c)
