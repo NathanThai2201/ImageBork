@@ -241,7 +241,7 @@ def animation_page():
     print(" Also be aware that there is no error checking, thus inputs must be precise")
     print("")
     print('************************')
-    print("A. Use temporal chromatic Aberration    --- a")
+    print("A. Use temporal chromatic aberration    --- a")
     print('************************')  
     print("")
     print("EX: a")
