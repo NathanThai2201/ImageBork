@@ -4,7 +4,7 @@ import re
 from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, chroma_animation
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, chroma_animation
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -90,6 +90,7 @@ def image_page():
     print("L. Use Image to Ascii                   --- l")
     print("M. Use Threshold image blender (random) --- m")
     print("N. Use Invert image                     --- n")
+    print("O. Use Image slicing (random)           --- o")
     print('************************')  
     print("")
     print("EX: e f h g k")
@@ -227,6 +228,8 @@ def image_processing_page(effect_chain):
                 img = blend.main(img)
             elif effect[0] == 'n':
                 img = util.invert(img)
+            elif effect[0] == 'o':
+                img = slicer.main(img)
 
 
         img_path = os.path.join(folder_path, filenames[i])
