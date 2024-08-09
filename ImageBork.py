@@ -4,7 +4,7 @@ import re
 from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, chroma_animation
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -113,7 +113,7 @@ def manual():
         print("     - Leave field empty for default settings")
         print("     - EX: a(2,4)")
         print("B. Flipping --- b(direction string)")
-        print("     - direction is either \"ud\" or \"lr\"")
+        print("     - Direction is either \"ud\" or \"lr\"")
         print("     - Leave field empty for default settings")
         print("     - EX: b(lr)")
         print("C. Rotation --- c(rotation angle number)")
@@ -129,6 +129,10 @@ def manual():
         print("     - Palette number is between 1 and 10, -1 for auto generate")
         print("     - Leave field empty for default settings")
         print("     - EX: j(2)")
+        print("A. Animation temporal chromatic abberation --- a(mode)")
+        print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
+        print("     - Leave field empty for default no eases")
+        print("     - EX: a(fi)")
         print('************************')  
         print("")
         print("Press 1 to view palettes")
@@ -232,10 +236,40 @@ def image_processing_page(effect_chain):
     return
 
 def animation_page():
+    os.system('cls' if os.name=='nt' else 'clear')
+    print(" --- Add an effect! --- ")
+    print(" Also be aware that there is no error checking, thus inputs must be precise")
+    print("")
+    print('************************')
+    print("A. Use temporal chromatic Aberration    --- a")
+    print('************************')  
+    print("")
+    print("EX: a")
+    print("")
+    animation_input = input('Input:').lower()
+    os.system('cls' if os.name=='nt' else 'clear')
+    if animation_input == "ret":
+        return
+    else:
+        return animation_processing_page(animation_input)
+    
+def animation_processing_page(animation_input):
+    os.system('cls' if os.name=='nt' else 'clear')
+    print(' Please wait while we cook!')
+
+    if animation_input[0] == 'a':
+        if len(animation_input)>=6 and animation_input[2:6]=="fifo":
+            chroma_animation.main(mode ="fifo")
+        elif len(animation_input)>=4 and animation_input[2:4]=="fi":
+            chroma_animation.main(mode ="fi")
+        elif len(animation_input)>=4 and animation_input[2:4]=="fo":
+            chroma_animation.main(mode ="fo")
+        else:
+            chroma_animation.main()
+        return
+    os.system('cls' if os.name=='nt' else 'clear')
+    input(' Animation borked! Press any key to continue')
     return
-
-
-
 
 
 def main():
