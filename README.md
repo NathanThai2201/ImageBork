@@ -1,6 +1,9 @@
 # ImageBork
 An image processing program with effect chaining for images and image sequences
 
+
+
+# Examples
 here is what you can expect to achieve with certain combinations:
 
 ![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
