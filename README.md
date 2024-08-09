@@ -21,6 +21,7 @@ K. Chromatic Aberration<br>
 L. Image to Ascii<br>
 M. Threshold image blender (random)<br>
 N. Invert image<br>
+O. Image slicing (random)<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
 
