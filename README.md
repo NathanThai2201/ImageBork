@@ -5,11 +5,11 @@ An image processing program with effect chaining for images and image sequences
 # Supported functions
 Currently this applet supports:
 
-         I. Transforms
+I. Transforms
 A. Use height and width scaling         --- a
 B. Use left right or up down flip       --- b
 C. Use clockwise rotation               --- c
-         II. Filters
+II. Filters
 D. Use Frequency modulation             --- d
 E. Use Kuwahara filter                  --- e
 F. Use Gaussian Blur                    --- f
