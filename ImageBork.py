@@ -3,6 +3,7 @@ import os
 import re
 from matplotlib import pyplot as plt
 from skimage import io, util
+
 from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend
 
 def plotter(img, name):
@@ -47,7 +48,7 @@ def selection_page():
     os.system('cls' if os.name=='nt' else 'clear')
     print(" --- Select a mode! --- ")
     print(" Place image files in the input folder, after processing the images will appear in the output folder.")
-    print(" If selected image sequence mode, name the files from 0001 to xxxx")
+    print(" If selected image sequence mode, name the files with numerics only")
     print("")
     print('************************')
     print('To select single/batch images, press I')
@@ -229,9 +230,6 @@ def image_processing_page(effect_chain):
     os.system('cls' if os.name=='nt' else 'clear')
     input(' Images borked! Press any key to continue')
     return
-
-
-
 
 def animation_page():
     return
