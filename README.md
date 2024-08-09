@@ -5,11 +5,11 @@ An image processing program with effect chaining for images and image sequences
 ## Supported functions
 Currently this applet supports:
 
-> **I. Transforms**<br>
+>      **I. Transforms**<br>
 A. Height and width scaling<br>
 B. Left right or up down flip<br>
 C. Clockwise rotation <br>
-> **II. Filters**<br>
+     **II. Filters**<br>
 D. Frequency modulation<br>
 E. Kuwahara filter<br>
 F. Gaussian Blur<br>
@@ -21,7 +21,7 @@ K. Chromatic Aberration<br>
 L. Image to Ascii<br>
 M. Threshold image blender (random)<br>
 N. Invert image<br>
-> **III. Animation**<br>
+     **III. Animation**<br>
 A. Temporal chromatic Aberration<br>
 
 ## Examples
