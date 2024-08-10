@@ -22,6 +22,7 @@ L. Image to Ascii<br>
 M. Threshold image blender (random)<br>
 N. Invert image<br>
 O. Image slicing (random)<br>
+P. Delauney triangulation<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
 
@@ -29,7 +30,7 @@ A. Temporal chromatic aberration<br>
 Here are some results:
 
 ![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
-![a(2,2) p](https://github.com/user-attachments/assets/500e9630-04a5-4bf0-89d3-bfe345f17dd3)
+![a2](https://github.com/user-attachments/assets/2cc888a0-fc7c-41ab-8348-3cbb29019fea)
 ![a3](https://github.com/user-attachments/assets/c6416e03-ecc7-47f8-8283-763660472c0c)
 ![a4](https://github.com/user-attachments/assets/146b2f03-1942-41d8-ad82-ca24de3d4621)
 ![a5](https://github.com/user-attachments/assets/6f26dccd-e8bb-44e2-b150-3a61b3790f42)
