@@ -14,7 +14,7 @@ def plotter(img, name):
     ax.set_title(name)
     plt.show()
 
-def main(imgA):
+def main(imgA, iterations = 6):
     
     # read image
     # imgA = io.imread("in.png", as_gray=False).astype(np.uint8)
@@ -44,7 +44,7 @@ def main(imgA):
             if pre<avg and temp>avg:
                 error_index=[i,j]
     vertices = np.vstack([vertices,error_index])
-    for x in range(6):
+    for x in range(iterations):
         #print(vertices)
         # Triangulate using Delaunay
         """

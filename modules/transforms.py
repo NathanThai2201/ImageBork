@@ -5,7 +5,7 @@ import os
 import matplotlib.pyplot as plt
 
 
-def scaling(img, h_scale=1, w_scale=1):
+def scaling(img, h_scale=1.1, w_scale=1.1):
     # Load target image
     # img = io.imread('in.png').astype(np.uint8)
     img = img[:, :, :3]  # Ensure image has 3 color channels (RGB)

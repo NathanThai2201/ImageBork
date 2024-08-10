@@ -111,7 +111,7 @@ def manual():
         print("")
         print('************************')
         print("A. Scaling --- a(height scale number, width scale number)")
-        print("     - Scale numbers are between 1 and 9")
+        print("     - Scale numbers are a float between 0 and 100")
         print("     - Leave field empty for default settings")
         print("     - EX: a(2,4)")
         print("B. Flipping --- b(direction string)")
@@ -131,6 +131,10 @@ def manual():
         print("     - Palette number is between 1 and 10, -1 for auto generate")
         print("     - Leave field empty for default settings")
         print("     - EX: j(2)")
+        print("P. Delauney triangulation --- p(iteration number)")
+        print("     -Iteration number is an int between 1 and 100")
+        print("     - Leave field empty for default settings")
+        print("     - EX: p(7)")
         print("A. Animation temporal chromatic abberation --- a(mode)")
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
         print("     - Leave field empty for default no eases")
@@ -171,14 +175,13 @@ def image_processing_page(effect_chain):
         effects = effect_chain.split(' ')
         for effect in effects:
             if effect[0] == 'a':
-                h_scale=1
-                w_scale=1
-                if len(effect)>=3:
-                    if effect[2].isnumeric():
-                        h_scale = int(effect[2])
-                if len(effect)>=5:
-                    if effect[4].isnumeric():
-                        w_scale = int(effect[4])
+
+                h_scale=1.1
+                w_scale=1.1
+                match = re.search(r'a\(([\d.]+),([\d.]+)\)', effect)
+                if match:
+                    h_scale = float(match.group(1))
+                    w_scale = float(match.group(2))
                 img = transforms.scaling(img,h_scale,w_scale)
             elif effect[0] == 'b':
                 if len(effect)>=4 and effect[2:4]=="ud":
@@ -232,9 +235,17 @@ def image_processing_page(effect_chain):
             elif effect[0] == 'o':
                 img = slicer.main(img)
             elif effect[0] == 'p':
-                img = triang.main(img)
-
-
+                iterations = 6
+                if len(effect)>=3:
+                    if effect[2].isnumeric():
+                        iterations = int(effect[2])
+                if len(effect)>=4:
+                    if effect[2:4].isnumeric():
+                        iterations = int(effect[2:4])
+                if len(effect)>=5:
+                    if effect[2:5].isnumeric():
+                        iterations = int(effect[2:5])
+                img = triang.main(img, iterations)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
