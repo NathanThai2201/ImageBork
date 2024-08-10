@@ -11,7 +11,7 @@ def main(imgA):
     #imgA = io.imread("in.png", as_gray=False).astype(np.uint8)
 
     h, w, c = imgA.shape
-    pad = random.randint(5,w/8)
+    pad = random.randint(5,int(w/8))
     imgA = np.pad(imgA, ((pad, pad), (pad, pad), (0, 0)), mode='wrap')
     imgB = np.copy(imgA)
     h, w, c = imgB.shape
