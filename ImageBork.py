@@ -132,7 +132,7 @@ def manual():
         print("     - Leave field empty for default settings")
         print("     - EX: j(2)")
         print("P. Delauney triangulation --- p(iteration number)")
-        print("     -Iteration number is an int between 1 and 100")
+        print("     - Iteration number is an int between 1 and 100")
         print("     - Leave field empty for default settings")
         print("     - EX: p(7)")
         print("A. Animation temporal chromatic abberation --- a(mode)")
