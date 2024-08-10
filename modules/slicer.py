@@ -5,7 +5,6 @@ from matplotlib import pyplot as plt
 from skimage import io
 import random
 
-# input: images from folder A, naming convention is 0001.png to xxxx.png
 def main(imgA):
     
     # read image
@@ -21,7 +20,7 @@ def main(imgA):
     slice_indices_b = random.randint(slice_indices_a, h) 
 
 
-    operator = random.randint(0,1)
+    operator = random.randint(0,2)
     for i in np.arange(pad,h-pad,1):
         for j in np.arange(pad,w-pad,1):
             if slice_indices_a< i <slice_indices_b:
