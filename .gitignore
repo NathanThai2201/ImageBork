@@ -1,0 +1,6 @@
+# files inside input, output
+input/*
+!input/
+
+output/*
+!output/
