@@ -15,14 +15,15 @@ E. Kuwahara filter<br>
 F. Gaussian Blur<br>
 G. Threshold pixel sorter<br>
 H. Ordered dithering<br>
-I. Halftone dithering<br>
-J. Floyd-Steinberg dithering<br>
-K. Chromatic Aberration<br>
-L. Image to Ascii<br>
-M. Threshold image blender (random)<br>
-N. Invert image<br>
-O. Image slicing (random)<br>
-P. Delauney triangulation<br>
+I. Dot Halftone dithering<br>
+J. Line Halftone dithering<br>
+K. Floyd-Steinberg dithering<br>
+L. Chromatic Aberration<br>
+M. Image to Ascii<br>
+N. Threshold image blender (random)<br>
+O. Invert image<br>
+P. Image slicing (random)<br>
+Q. Delauney triangulation<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
 

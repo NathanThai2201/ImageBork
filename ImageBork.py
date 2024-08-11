@@ -84,14 +84,15 @@ def image_page():
     print("F. Use Gaussian Blur                    --- f")
     print("G. Use Threshold pixel sorter           --- g")
     print("H. Use Ordered dithering                --- h")
-    print("I. Use Halftone dithering               --- i")
-    print("J. Use Floyd-Steinberg dithering        --- j")
-    print("K. Use Chromatic Aberration             --- k")
-    print("L. Use Image to Ascii                   --- l")
-    print("M. Use Threshold image blender (random) --- m")
-    print("N. Use Invert image                     --- n")
-    print("O. Use Image slicing (random)           --- o")
-    print("P. Use Delauney triangulation           --- p")
+    print("I. Use Dot Halftone dithering           --- i")
+    print("J. Use Line Halftone dithering          --- j")
+    print("K. Use Floyd-Steinberg dithering        --- k")
+    print("l. Use Chromatic Aberration             --- l")
+    print("M. Use Image to Ascii                   --- m")
+    print("N. Use Threshold image blender (random) --- n")
+    print("O. Use Invert image                     --- o")
+    print("P. Use Image slicing (random)           --- p")
+    print("Q. Use Delauney triangulation           --- q")
     print('************************')  
     print("")
     print("EX: e f h g k")
@@ -127,14 +128,14 @@ def manual():
         print("     - Spread float is between 0.0 and 1.0")
         print("     - Leave field empty for default settings")
         print("     - EX: h(2,0.1)")
-        print("J. Floyd-Steinberg dithering --- j(palette number)")
+        print("K. Floyd-Steinberg dithering --- k(palette number)")
         print("     - Palette number is between 1 and 10, -1 for auto generate")
         print("     - Leave field empty for default settings")
-        print("     - EX: j(2)")
-        print("P. Delauney triangulation --- p(iteration number)")
+        print("     - EX: k(2)")
+        print("Q. Delauney triangulation --- q(iteration number)")
         print("     - Iteration number is an int between 1 and 100")
         print("     - Leave field empty for default settings")
-        print("     - EX: p(7)")
+        print("     - EX: q(7)")
         print("A. Animation temporal chromatic abberation --- a(mode)")
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
         print("     - Leave field empty for default no eases")
@@ -219,22 +220,24 @@ def image_processing_page(effect_chain):
             elif effect[0] == 'i':
                 img = haft.main(img)
             elif effect[0] == 'j':
+                img = haft.main2(img)
+            elif effect[0] == 'k':
                 cset = -1
                 match = re.search(r'\((\d+)\)', effect)
                 if match:
                     cset = int(match.group(1))   
                 img = fsd.main(img,cset)
-            elif effect[0] == 'k':
-                img = chroma.main(img)
             elif effect[0] == 'l':
-                img = asc.main(img)
+                img = chroma.main(img)
             elif effect[0] == 'm':
-                img = blend.main(img)
+                img = asc.main(img)
             elif effect[0] == 'n':
-                img = util.invert(img)
+                img = blend.main(img)
             elif effect[0] == 'o':
-                img = slicer.main(img)
+                img = util.invert(img)
             elif effect[0] == 'p':
+                img = slicer.main(img)
+            elif effect[0] == 'q':
                 iterations = 6
                 if len(effect)>=3:
                     if effect[2].isnumeric():
