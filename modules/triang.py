@@ -41,9 +41,11 @@ def main(imgA, iterations = 6):
         for j in np.arange(1,w-1,1):
             pre = (int(imgB[i,j-1,0])+int(imgB[i,j-1,1])+int(imgB[i,j-1,2]))/3
             temp = (int(imgB[i,j+1,0])+int(imgB[i,j+1,1])+int(imgB[i,j+1,2]))/3
-            if pre<avg and temp>avg:
+            if pre < avg and temp > avg or temp < avg and pre > avg:
                 error_index=[i,j]
-    vertices = np.vstack([vertices,error_index])
+                #add top and bottom verts
+                if i == 1 or i == (h-2):
+                    vertices = np.vstack([vertices,error_index])
     for x in range(iterations):
         #print(vertices)
         # Triangulate using Delaunay
@@ -75,7 +77,7 @@ def main(imgA, iterations = 6):
                 if c > 0 and c < w - 1:
                     pre = np.mean(imgA[r, c-1])
                     temp = np.mean(imgA[r, c+1])
-                    if pre < avg and temp > avg:
+                    if pre < avg and temp > avg or temp < avg and pre > avg:
                         detected_vertices.append([r, c])
             
             # append detected vertice
