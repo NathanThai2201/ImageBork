@@ -21,31 +21,23 @@ def main(imgA, iterations = 6):
     imgA = imgA[:, :, :3]
     imgA = np.pad(imgA, ((1, 1), (1, 1), (0, 0)), mode='wrap')
 
-    imgB = np.copy(imgA)
+    imgB = imgA - np.mean(imgA, axis=(0, 1))
 
     h, w, c = imgA.shape
     vertices = np.array([[1,1],[h-2,w-2],[h-2,1],[1,w-2]])
     # error difference map
-    avgcolorR = int(np.mean(imgA[:,:,0]))
-    avgcolorG = int(np.mean(imgA[:,:,1]))
-    avgcolorB = int(np.mean(imgA[:,:,2]))
-    avg = (avgcolorR+avgcolorB+avgcolorG)/3
-    for i in np.arange(0,h,1):
-        for j in np.arange(0,w,1):
-            imgB[i,j,0]=imgA[i,j,0]-avgcolorR
-            imgB[i,j,1]=imgA[i,j,0]-avgcolorG
-            imgB[i,j,2]=imgA[i,j,0]-avgcolorB
+    avg = np.mean(np.mean(imgA, axis=(0, 1)))
+
     # finding cross error for vertices when it crosses, theres a line
-    error_index=[0,0]
-    for i in np.arange(1,h-1,1):
-        for j in np.arange(1,w-1,1):
-            pre = (int(imgB[i,j-1,0])+int(imgB[i,j-1,1])+int(imgB[i,j-1,2]))/3
-            temp = (int(imgB[i,j+1,0])+int(imgB[i,j+1,1])+int(imgB[i,j+1,2]))/3
-            if pre < avg and temp > avg or temp < avg and pre > avg:
-                error_index=[i,j]
-                #add top and bottom verts
+    error_index = [0, 0]
+    for i in range(1, h-1):
+        for j in range(1, w-1):
+            pre = np.mean(imgB[i, j-1])
+            temp = np.mean(imgB[i, j+1])
+            if (pre < avg < temp) or (temp < avg < pre):
+                error_index = [i, j]
                 if i == 1 or i == (h-2):
-                    vertices = np.vstack([vertices,error_index])
+                    vertices = np.vstack([vertices, error_index])
     for x in range(iterations):
         #print(vertices)
         # Triangulate using Delaunay
@@ -72,12 +64,11 @@ def main(imgA, iterations = 6):
             
             # Check for error indexes
             detected_vertices = []
-            for idx in range(len(rr)):
-                r, c = rr[idx], cc[idx]
-                if c > 0 and c < w - 1:
+            for r, c in zip(rr, cc):
+                if 0 < c < w - 1:
                     pre = np.mean(imgA[r, c-1])
                     temp = np.mean(imgA[r, c+1])
-                    if pre < avg and temp > avg or temp < avg and pre > avg:
+                    if (pre < avg < temp) or (temp < avg < pre):
                         detected_vertices.append([r, c])
             
             # append detected vertice
@@ -85,9 +76,7 @@ def main(imgA, iterations = 6):
                 middle_idx = len(detected_vertices) // 2
                 vertices2 = np.vstack([vertices2, detected_vertices[middle_idx]])
         vertices = vertices2
-
-    triangles = Delaunay(vertices)
-    imgB = imgB[1:h - 1, 1:w - 1]
+    imgB = imgB[1:h - 1, 1:w - 1].astype(np.uint8)
     #print("")
     #print(vertices)
     #print(triangles.simplices)   
