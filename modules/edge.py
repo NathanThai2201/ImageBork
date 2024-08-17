@@ -34,6 +34,8 @@ def main(imgA):
     for i in np.arange(0,h,1):
         for j in np.arange(0,w,1):
             imgA[i,j,0]= np.min([imgA[i,j,0]+img_gm[i,j]*strength,255])
+            imgA[i,j,1]= np.min([imgA[i,j,1]+img_gm[i,j]*strength,255])
+            imgA[i,j,2]= np.min([imgA[i,j,2]+img_gm[i,j]*strength,255])
     
     return imgA
 

@@ -25,6 +25,7 @@ O. Invert image<br>
 P. Image slicing (random)<br>
 Q. Delauney triangulation<br>
 R. Sobel edge outliner<br>
+S. Histogram Equalization<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
 
