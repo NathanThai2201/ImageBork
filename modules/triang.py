@@ -6,7 +6,6 @@ from skimage import io, draw
 from scipy.spatial import Delaunay
 import random
 
-
 def plotter(img, name):
     fig, ax = plt.subplots()
     ax.imshow(img, cmap=plt.cm.gray if img.ndim == 2 else None)
