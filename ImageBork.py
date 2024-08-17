@@ -93,7 +93,7 @@ def image_page():
     print("O. Use Invert image                     --- o")
     print("P. Use Image slicing (random)           --- p")
     print("Q. Use Delauney triangulation           --- q")
-    print("R. Use Sobel edge outliner              --- r")
+    print("R. Use Sobel edge outliner (random)     --- r")
     print("S. Use Histogram Equalization           --- s")
     print('************************')  
     print("")
