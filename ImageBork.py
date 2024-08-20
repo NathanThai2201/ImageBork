@@ -113,6 +113,7 @@ def manual():
         print(" --- Manual --- ")
         print("")
         print('************************')
+        print("         I. Transforms")
         print("A. Scaling --- a(height scale number, width scale number)")
         print("     - Scale numbers are a float between 0 and 100")
         print("     - Leave field empty for default settings")
@@ -125,6 +126,7 @@ def manual():
         print("     - Angle number is between 0 and 360")
         print("     - Leave field empty for default settings")
         print("     - EX: c(90)")
+        print("         II. Filters")
         print("H. Ordered dithering --- h(palette number,spread float)")
         print("     - Palette number is between 1 and 10, -1 for auto generate")
         print("     - Spread float is between 0.0 and 1.0")
@@ -138,6 +140,12 @@ def manual():
         print("     - Iteration number is an int between 1 and 100")
         print("     - Leave field empty for default settings")
         print("     - EX: q(7)")
+        print("R. Sobel edge outliner --- r(channel)")
+        print("     - Channel is either \"r\", \"g\" or \"b\"")
+        print("     - Leave channel \"a\" for all channels")
+        print("     - Leave field empty for default settings")
+        print("     - EX: r(g)")
+        print("         III. Animation")
         print("A. Animation temporal chromatic abberation --- a(mode)")
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
         print("     - Leave field empty for default no eases")
@@ -252,7 +260,19 @@ def image_processing_page(effect_chain):
                         iterations = int(effect[2:5])
                 img = triang.main(img, iterations)
             elif effect[0] == 'r':
-                img = edge.main(img)
+                if len(effect)>=3:
+                    if effect[2]=="r":
+                        img = edge.main(img,"r")
+                    elif effect[2]=="g":
+                        img = edge.main(img,"g")
+                    elif effect[2]=="b":
+                        img = edge.main(img,"b")
+                    elif effect[2]=="a":
+                        img = edge.main(img,"a")
+                    else:
+                        img = edge.main(img,"none")
+                else:
+                    img = edge.main(img,"none")
             elif effect[0] == 's':
                 img = histeq.main(img)
         img_path = os.path.join(folder_path, filenames[i])
