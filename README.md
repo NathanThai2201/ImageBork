@@ -29,6 +29,7 @@ S. Histogram Equalization<br>
 T. Voronoi cell fracture<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
+B. Temporal Sobel edge outliner<br>
 
 ## Examples
 Here are some results:
