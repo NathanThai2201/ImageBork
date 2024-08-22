@@ -4,7 +4,7 @@ import re
 from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, chroma_animation
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -95,6 +95,7 @@ def image_page():
     print("Q. Use Delauney triangulation           --- q")
     print("R. Use Sobel edge outliner (random)     --- r")
     print("S. Use Histogram Equalization           --- s")
+    print("T. Use Voronoi cell fracture            --- t")
     print('************************')  
     print("")
     print("EX: e f h g k")
@@ -275,6 +276,8 @@ def image_processing_page(effect_chain):
                     img = edge.main(img,"none")
             elif effect[0] == 's':
                 img = histeq.main(img)
+            elif effect[0] == 't':
+                img = voronoi.main(img)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
