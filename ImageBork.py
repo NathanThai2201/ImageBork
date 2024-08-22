@@ -4,7 +4,7 @@ import re
 from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -151,6 +151,10 @@ def manual():
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
         print("     - Leave field empty for default no eases")
         print("     - EX: a(fi)")
+        print("B. Animation temporal sobel edge outliner --- b(mode)")
+        print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
+        print("     - Leave field empty for default no eases")
+        print("     - EX: b(fi)")
         print('************************')  
         print("")
         print("Press 1 to view palettes")
@@ -291,7 +295,7 @@ def animation_page():
     print("")
     print('************************')
     print("A. Use temporal chromatic aberration    --- a")
-    print("B. Use temporal sobel edge (mask only)  --- a")
+    print("B. Use temporal sobel edge outliner     --- b")
     print('************************')  
     print("")
     print("EX: a")
@@ -316,7 +320,15 @@ def animation_processing_page(animation_input):
             chroma_animation.main(mode ="fo")
         else:
             chroma_animation.main()
-        return
+    if animation_input[0] == 'b':
+        if len(animation_input)>=6 and animation_input[2:6]=="fifo":
+            edge_animation.main(mode ="fifo")
+        elif len(animation_input)>=4 and animation_input[2:4]=="fi":
+            edge_animation.main(mode ="fi")
+        elif len(animation_input)>=4 and animation_input[2:4]=="fo":
+            chroma_animation.main(mode ="fo")
+        else:
+            edge_animation.main()
     os.system('cls' if os.name=='nt' else 'clear')
     input(' Animation borked! Press any key to continue')
     return

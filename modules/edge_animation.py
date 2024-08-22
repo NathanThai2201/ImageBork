@@ -1,15 +1,17 @@
 import numpy as np
 import os
 from scipy import signal
+from matplotlib import pyplot as plt
 from skimage.color import rgb2gray, gray2rgb
 from skimage import io, img_as_ubyte
+import math
 
 def plotter(img, name):
     fig, ax = plt.subplots()
     ax.imshow(img, cmap=plt.cm.gray if img.ndim == 2 else None)
     ax.set_axis_off()
     ax.set_title(name)
-    plt.show()
+    plt.show()  
 
 def main(mode="NO"):
     folder_path = "./input"
@@ -50,6 +52,15 @@ def main(mode="NO"):
     # Sobel pass 2: overlay and mix
     index = 2 
     while index < len(images):
+         # read image
+        fade = 1
+        if mode == "fifo":
+            fade = (math.sin(-math.pi/2 + 2*(index/len(images))*math.pi) + 1)/2  # ease inout FIFO
+        if mode == "fi":
+            fade = (index/len(images))**2 # easein FI
+        if mode == "fo":
+            fade = -(index/len(images))**2+1 # easein FO
+
         imgA = np.copy(images2[index-2])
         imgB = np.copy(images2[index-1])
         imgC = np.copy(images2[index])
@@ -69,7 +80,7 @@ def main(mode="NO"):
         # mix red only
         for i in np.arange(0, h, 1):
             for j in np.arange(0, w, 1):
-                imgE[i,j,0] = np.min([int(imgbase[i,j,0]) + int(imgD[i,j,0]), 255])
+                imgE[i,j,0] = np.min([int(imgbase[i,j,0]) + int(imgD[i,j,0])*fade, 255])
                 imgE[i,j,1] = imgbase[i,j,1]
                 imgE[i,j,2] = imgbase[i,j,2]
         img_path = os.path.join(output_folder, f"{index-2}")
