@@ -291,6 +291,7 @@ def animation_page():
     print("")
     print('************************')
     print("A. Use temporal chromatic aberration    --- a")
+    print("B. Use temporal sobel edge (mask only)  --- a")
     print('************************')  
     print("")
     print("EX: a")
