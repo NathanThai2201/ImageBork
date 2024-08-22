@@ -1,9 +1,10 @@
 import subprocess
 import sys
 
-packages = ['numpy', 'scikit-image', 'matplotlib', 'scipy']
 
-#test install
+packages = ['numpy','scikit-image', 'matplotlib','scipy','scikit-learn']
+
+# test install
 for package in packages:
     try:
         __import__(package)
