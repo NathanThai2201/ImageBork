@@ -146,6 +146,10 @@ def manual():
         print("     - Leave channel \"a\" for all channels")
         print("     - Leave field empty for default settings")
         print("     - EX: r(g)")
+        print("T. Voronoi cell fracture --- t(cell number)")
+        print("     - Cell number is an int between 1 and 999")
+        print("     - Leave field empty for default settings")
+        print("     - EX: t(500)")
         print("         III. Animation")
         print("A. Animation temporal chromatic abberation --- a(mode)")
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
@@ -281,7 +285,17 @@ def image_processing_page(effect_chain):
             elif effect[0] == 's':
                 img = histeq.main(img)
             elif effect[0] == 't':
-                img = voronoi.main(img)
+                cell_number = 600
+                if len(effect)>=3:
+                    if effect[2].isnumeric():
+                        cell_number = int(effect[2])
+                if len(effect)>=4:
+                    if effect[2:4].isnumeric():
+                        cell_number = int(effect[2:4])
+                if len(effect)>=5:
+                    if effect[2:5].isnumeric():
+                        cell_number = int(effect[2:5])
+                img = voronoi.main(img, cell_number)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
