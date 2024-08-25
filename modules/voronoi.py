@@ -30,12 +30,12 @@ class LCG():
         return self.X / self.m
 
 
-def main(imgA):
+def main(imgA,cell_number = 600):
     
     # read image
     # imgA = io.imread("in.png", as_gray=False).astype(np.uint8)
     imgA = imgA[:, :, :3]
-    pad = 30
+    pad = 40
     imgA = np.pad(imgA, ((pad, pad), (pad, pad), (0, 0)), mode='reflect')
 
     h, w, c = imgA.shape
@@ -45,8 +45,8 @@ def main(imgA):
     vertices = np.array([0,0])
 
     #random vertices
-    lcg = LCG(random.randint(0,1000))
-    for i in range(600):
+    lcg = LCG(random.randint(1,3)) # seed selection
+    for i in range(cell_number):
         lcg.next()
         idx1 = int(lcg.out()*h)
         lcg.next()
