@@ -46,9 +46,7 @@ def main(imgA, iterations = 6):
             error_index = [i, j]
             if i == 1 or i == (h-2):
                 vertices = np.vstack([vertices, error_index])
-    
 
-    iterations = 2
     for x in range(iterations):
         #print(vertices)
         # Triangulate using Delaunay
