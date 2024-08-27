@@ -28,15 +28,27 @@ def main(imgA, iterations = 6):
     avg = np.mean(np.mean(imgA, axis=(0, 1)))
 
     # finding cross error for vertices when it crosses, theres a line
-    error_index = [0, 0]
-    for i in range(1, h-1):
-        for j in range(1, w-1):
-            pre = np.mean(imgB[i, j-1])
-            temp = np.mean(imgB[i, j+1])
-            if (pre < avg < temp) or (temp < avg < pre):
-                error_index = [i, j]
-                if i == 1 or i == (h-2):
-                    vertices = np.vstack([vertices, error_index])
+    i=1
+    for j in range(1, w-1):
+        pre = np.mean(imgA[i, j-1])
+        temp = np.mean(imgA[i, j+1])
+        #print(pre,temp)
+        if (pre < avg < temp) or (temp < avg < pre):
+            error_index = [i, j]
+            if i == 1 or i == (h-2):
+                vertices = np.vstack([vertices, error_index])
+    i=h-2
+    for j in range(1, w-1):
+        pre = np.mean(imgA[i, j-1])
+        temp = np.mean(imgA[i, j+1])
+        #print(pre,temp)
+        if (pre < avg < temp) or (temp < avg < pre):
+            error_index = [i, j]
+            if i == 1 or i == (h-2):
+                vertices = np.vstack([vertices, error_index])
+    
+
+    iterations = 2
     for x in range(iterations):
         #print(vertices)
         # Triangulate using Delaunay
@@ -45,6 +57,13 @@ def main(imgA, iterations = 6):
         """
         triangles = Delaunay(vertices)
         triangle_coords = []
+
+
+        plt.triplot(vertices[:, 0], vertices[:, 1], triangles.simplices)
+        plt.plot(vertices[:, 0], vertices[:, 1], 'o')
+        plt.show()
+
+        
         vertices2 = np.array(vertices.data)
         for i in triangles.simplices:
             rr, cc = draw.polygon(
