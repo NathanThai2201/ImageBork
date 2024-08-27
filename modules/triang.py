@@ -55,12 +55,6 @@ def main(imgA, iterations = 6):
         """
         triangles = Delaunay(vertices)
         triangle_coords = []
-
-
-        plt.triplot(vertices[:, 0], vertices[:, 1], triangles.simplices)
-        plt.plot(vertices[:, 0], vertices[:, 1], 'o')
-        plt.show()
-
         
         vertices2 = np.array(vertices.data)
         for i in triangles.simplices:
