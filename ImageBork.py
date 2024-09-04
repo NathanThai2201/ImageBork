@@ -343,6 +343,7 @@ def animation_processing_page(animation_input):
             chroma_animation.main(mode ="fo")
         else:
             edge_animation.main()
+    # experimental, do not use
     if animation_input == '*belle(in)':
         belle.main(mode="in")
     if animation_input == '*belle(out)':
