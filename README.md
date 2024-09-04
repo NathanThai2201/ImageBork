@@ -32,11 +32,10 @@ A. Temporal chromatic aberration<br>
 B. Temporal Sobel edge outliner<br>
 
 ## Examples
-Here are some results:
+Here are some results:<br>
 https://github.com/user-attachments/assets/8b1585a2-22e0-4b42-a1af-6e451815a81e<br>
 https://github.com/user-attachments/assets/0e05756b-3619-477d-8ff1-54ae9b47823d<br>
 https://github.com/user-attachments/assets/8505628b-0051-4cff-8351-bda5a87975d2<br>
-><br>
 ![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
 ![a2](https://github.com/user-attachments/assets/2cc888a0-fc7c-41ab-8348-3cbb29019fea)
 ![a3](https://github.com/user-attachments/assets/c6416e03-ecc7-47f8-8283-763660472c0c)
