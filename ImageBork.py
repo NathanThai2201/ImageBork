@@ -4,7 +4,7 @@ import re
 from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle, cope
 
 def plotter(img, name):
     fig, ax = plt.subplots()
@@ -347,6 +347,10 @@ def animation_processing_page(animation_input):
         belle.main(mode="in")
     if animation_input == '*belle(out)':
         belle.main(mode="out")
+    if animation_input == '*cope(in)':
+        cope.main(mode="in")
+    if animation_input == '*cope(out)':
+        cope.main(mode="out")
     os.system('cls' if os.name=='nt' else 'clear')
     input(' Animation borked! Press any key to continue')
     return
