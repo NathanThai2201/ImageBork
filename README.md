@@ -30,6 +30,7 @@ T. Voronoi cell fracture<br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Animation**<br>
 A. Temporal chromatic aberration<br>
 B. Temporal Sobel edge outliner<br>
+C. Temporal threshold pixel eater<br>
 
 ## Examples
 Here are some results:<br>

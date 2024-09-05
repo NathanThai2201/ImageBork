@@ -159,6 +159,10 @@ def manual():
         print("     - Mode is either \"fi\", \"fo\" or \"fifo\"")
         print("     - Leave field empty for default no eases")
         print("     - EX: b(fi)")
+        print("C. Use temporal threshold pixel eater --- c(mode)")
+        print("     - Mode is either \"in\" or \"out\"")
+        print("     - Leave field empty for default settings")
+        print("     - EX: c(in)")
         print('************************')  
         print("")
         print("Press 1 to view palettes")
@@ -310,6 +314,7 @@ def animation_page():
     print('************************')
     print("A. Use temporal chromatic aberration    --- a")
     print("B. Use temporal sobel edge outliner     --- b")
+    print("C. Use temporal threshold pixel eater   --- c")
     print('************************')  
     print("")
     print("EX: a")
@@ -343,11 +348,14 @@ def animation_processing_page(animation_input):
             chroma_animation.main(mode ="fo")
         else:
             edge_animation.main()
+    if animation_input[0] == 'c':
+        if len(animation_input)>=4 and animation_input[2:4]=="in":
+            belle.main(mode="in")
+        elif len(animation_input)>=4 and animation_input[2:5]=="out":
+            belle.main(mode="out")
+        else:
+            belle.main(mode="in")
     # experimental, do not use
-    if animation_input == '*belle(in)':
-        belle.main(mode="in")
-    if animation_input == '*belle(out)':
-        belle.main(mode="out")
     if animation_input == '*cope(in)':
         cope.main(mode="in")
     if animation_input == '*cope(out)':
