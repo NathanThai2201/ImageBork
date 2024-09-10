@@ -1,17 +1,9 @@
 import numpy as np
 import os
 import re
-from matplotlib import pyplot as plt
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle, cope, cope2
-
-def plotter(img, name):
-    fig, ax = plt.subplots()
-    ax.imshow(img, cmap=plt.cm.gray if img.ndim == 2 else None)
-    ax.set_axis_off()
-    ax.set_title(name)
-    plt.show()
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle
 
 def landing_page():
     os.system('cls' if os.name=='nt' else 'clear')
@@ -300,6 +292,12 @@ def image_processing_page(effect_chain):
                     if effect[2:5].isnumeric():
                         cell_number = int(effect[2:5])
                 img = voronoi.main(img, cell_number)
+
+            # experimental, do not use
+            elif effect[0] == '*':
+                from modules.experimental import jpeg
+                if effect == '*jpeg':
+                    img = jpeg.main(img)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
@@ -355,8 +353,10 @@ def animation_processing_page(animation_input):
             belle.main(mode="out")
         else:
             belle.main(mode="in")
+
     # experimental, do not use
     if animation_input[0] == '*':
+        from modules.experimental import cope, cope2
         if animation_input == '*cope(in)':
             cope.main(mode="in")
         if animation_input == '*cope(out)':
