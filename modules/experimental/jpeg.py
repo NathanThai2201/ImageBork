@@ -1,9 +1,10 @@
 
 """
-Code refactored from 
-
+Code refactored from jpglitch by Kareeeeem 
+Repository at https://github.com/Kareeeeem/jpglitch.git
+Made to work with ImageBork effect chaining
+All rights reserved
 """
-
 
 import io
 import os
