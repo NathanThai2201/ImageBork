@@ -295,9 +295,11 @@ def image_processing_page(effect_chain):
 
             # experimental, do not use
             elif effect[0] == '*':
-                from modules.experimental import jpeg
+                from modules.experimental import jpeg, scanlines
                 if effect == '*jpeg':
                     img = jpeg.main(img)
+                if effect == '*scanlines':
+                    img = scanlines.main(img)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
