@@ -3,7 +3,7 @@ import os
 import re
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle, scanlines
 
 def landing_page():
     os.system('cls' if os.name=='nt' else 'clear')
@@ -88,6 +88,7 @@ def image_page():
     print("R. Use Sobel edge outliner (random)     --- r")
     print("S. Use Histogram Equalization           --- s")
     print("T. Use Voronoi cell fracture            --- t")
+    print("U. Use Scanlines overlay                --- u")
     print('************************')  
     print("")
     print("EX: e f h g k")
@@ -292,14 +293,13 @@ def image_processing_page(effect_chain):
                     if effect[2:5].isnumeric():
                         cell_number = int(effect[2:5])
                 img = voronoi.main(img, cell_number)
-
+            elif effect[0] == 'u':
+                img = scanlines.main(img)
             # experimental, do not use
             elif effect[0] == '*':
-                from modules.experimental import jpeg, scanlines
+                from modules.experimental import jpeg
                 if effect == '*jpeg':
                     img = jpeg.main(img)
-                if effect == '*scanlines':
-                    img = scanlines.main(img)
         img_path = os.path.join(folder_path, filenames[i])
         io.imsave(img_path+".png", img)
     os.system('cls' if os.name=='nt' else 'clear')
