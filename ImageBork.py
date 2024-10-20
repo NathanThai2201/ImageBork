@@ -3,7 +3,7 @@ import os
 import re
 from skimage import io, util
 
-from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, belle, scanlines
+from modules import kwhr, sort, od, gaus, fsd, chroma, asc, fm, haft, transforms, blend, slicer, triang, edge, histeq, voronoi, chroma_animation, edge_animation, extract_animation, belle, scanlines
 
 def landing_page():
     os.system('cls' if os.name=='nt' else 'clear')
@@ -156,6 +156,10 @@ def manual():
         print("     - Mode is either \"in\" or \"out\"")
         print("     - Leave field empty for default settings")
         print("     - EX: c(in)")
+        print("D. Use temporal motion extractor --- d(displace number)")
+        print("     - Displace number is either 1,2 or 3")
+        print("     - Leave field empty for default settings")
+        print("     - EX: d(3)")
         print('************************')  
         print("")
         print("Press 1 to view palettes")
@@ -315,6 +319,7 @@ def animation_page():
     print("A. Use temporal chromatic aberration    --- a")
     print("B. Use temporal sobel edge outliner     --- b")
     print("C. Use temporal threshold pixel eater   --- c")
+    print("D. Use temporal motion extractor        --- d")
     print('************************')  
     print("")
     print("EX: a")
@@ -355,6 +360,13 @@ def animation_processing_page(animation_input):
             belle.main(mode="out")
         else:
             belle.main(mode="in")
+    if animation_input[0] == 'd':
+        if len(animation_input)>=4 and animation_input[2:3]=="2":
+            extract_animation.main(mode=2)
+        elif len(animation_input)>=4 and animation_input[2:3]=="3":
+            extract_animation.main(mode=3)
+        else:
+            extract_animation.main(mode=1)
 
     # experimental, do not use
     if animation_input[0] == '*':
