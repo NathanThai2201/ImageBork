@@ -32,7 +32,7 @@ U. Scanlines overlay<br>
 A. Temporal chromatic aberration<br>
 B. Temporal Sobel edge outliner<br>
 C. Temporal threshold pixel eater<br>
-D. Use temporal motion extractor<br>
+D. Temporal motion extractor<br>
 ## Examples
 Here are some results:<br>
 ![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
