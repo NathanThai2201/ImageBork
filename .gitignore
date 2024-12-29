@@ -1,0 +1,8 @@
+**/.DS_Store
+
+# files inside input, output
+input/*
+!input/.gitkeep
+
+output/*
+!output/.gitkeep
