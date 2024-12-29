@@ -1,49 +1,64 @@
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-cccccccccccccccccccccccccccccccccccccooooooooooooc. ::::.............................   .  .............oooooocccccccoooooooo
-cccccccccccccccccccccccccccccccccccccoooooooooooo: ...::.................................  .............:oooooccccccccccccccc
-cccccccccccccccccccccccccccccccccccccoooooooooccc: ..:.:..............................  .. . ............oooooooooccccccccccc
-ccccccccccccccccccccccccccccccccccccooooooooooooo. ...::::...........................        ............coooooooooooccoocccc
-ccccccccccccccccccccccccccccccccccccococcccccoooo:....:::.................................  ..............ooooooooooooooooccc
-ccccccccccccccccccccccccccccccccccoocccccccccooooc....:::.................................  . ... ........ooooooooooocccccccc
-ccccccccccccccccccccccccccccccccooooooccccccoooooc. .:::::..............................     . .. ......:.oocccoooocccccccccc
-cccccccccccccccccccccccccccccccooooocooooooooooooo. .:..:..................... .              .... .......cocccccoccccccccccc
-cccccccccccccccccccccccccccoooooooccccccooooooooooc ..........    .......................    ..  .     ...coooooooccccccccccc
-cccococcccccccccccccccccoooooooooooccccoooooooooooo..  ...       .........       ..........   .....      .coooooooccccccccccc
-cocococcccccccccccccccooooooooooooooocooooooooooooo.. .:..       .......              .....   ... .. .    cocc::coccccccccccc
-ooccocccccccccccccooooooooooooooooooooooooooooooooo:.  ::::..::.....::.....................    . ...     .........:cccccccccc
-ccccccccccccoooooooooooooooooooooooooooooooooooooooo..::::::.....::::::...::..............       .     ... . .... .:ccccccccc
-oooooooocoooooooooooooooooooooooooooooooooooooooooooo. .:::::..::::::::....:::...........        .   .  ........     cccccccc
-oooooooooooooooooooooooooooooooooooooooooooooooooooooo. :.::::::::::c::::....:::........            .......    .     :ccccccc
-ooooooooooooooooooooooooooooooooooooooooooooooooooooooo. ...:::::.::c:::.::............          ......      ........:.::::::
-cccccccccccccccccccccccooooooooooooooooooooooooooooooc::..:......::::::................        ......   . ............:::..::
-cccccccccccccccccccccccccccoooooooooooooooooooooooooc:::::.::.. .... .   ....:........       ......    . ...........:........
-cccccccccccccccccccccccccccccccoooooooooooooooooooocc:::::..:::::::..    .............    ......     .. .....................
-cccccccccccccccccccccccoooooooooooooooooooooooooocc::::::::..::.:::....     ..  ...   ......       ..  ........ .............
-cccccccccccccccccccccccooooooooooooooccccccoooooc c:::::::::.:................... .....       .  ..  ... ....  ............  
-cccccccccccccccccccccccccoooooooooooccc.::::::::c:c:::::::.::::....... .    .......            . . .... .... ............. ..
-ccccccccccccccccccccccocccooccccocccc::::.::::::::::::.::::.:::::::...........        .    .. .  ...  ....  ............  ...
-cccccccccccccccccccccooooooooccc::::..::::::.......:::..:.......:.......... ..........  ..  ......         ...........  .....
-cccccccccccccccccccccoooooooocccc::::::....::..::....:.::........... . .  .....   ..     ....        .   ...........   ......
-ccoccccccccccccccccooooooooocccccc:::::::::::............:...  ..............       ....       ....   ............    ...... 
-cccccccccccccccccccccooooc::..:::::::::..::::::::........................... ..          .....     ............     ......  .
-ccccccccccccccccccccccccc:...:::......:::::............... ... ...... .....    ....        .    ..............     .....  ...
-ccccccccccccccccccccccccc...:::::::..::::::::..    ...  .....         ....       .         ................       ....   ....
-cccccccccccccccccoooocooc.:c::::::::............... .::..:...:..  ..       ......       ................         ...    .....
-ccccccccccooooooooooooooocc:::....::::::::::...........::..:........... .             ...............         ...      ......
-cccccoooooooooooooooooooc::::::::::::::::::::..:..... ....::............. ..........................       ...         ......
-ooooooooooooooooooooooooc::::::::::::....:::::::..........:...:........ ..      ...............        ....       ....  .....
-oooooooooooooooooooooooc:::::..:.::::::::::............  ....:.............::..... ....  ....      .....       .....    .... 
-ooooooooooooooooooooooo:::::::::::::::::::::........... .. .................:...   .   ...     ....         .......     .... 
-ooooooooooooooooooooooc::::::::::::::::::..................    . ..... .     ..    ..  ........           ........      .... 
-                                                                                                                             
-                                                                                                                             
-                                                                                                                           .:
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
+ᛝᛟᛝᛝᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛟocccccccccccoooooooᛟoooooooooooooooooooooooooooooᛟooooooooooooooccoᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱஇஇஇᛝccooooooooooooooooooᛟᛝ
+ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛟocccccccccccooooooooooooooooooooooooooooooooooooooooooooooooooooocooᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝឱஇஇஇᛟcoooooooooooooooooo:.
+ᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛟᛟocccccccccccooooooooooooooooooooᛟoᛟooooooooooᛟoooooooooooooooooooccoᛟᛟᛟᛝᛝᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟឱஇஇஇᛝccoooooooooooooo....
+ᛟᛟᛝᛟᛟᛟᛟᛝᛝᛝᛝᛟᛝᛟᛟoccccccccccccooooooooooooooooooooooooooooooooooooooooooooooooooooccooᛟᛟᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱஇஇஇឱccoooooooooᛟo:.....
+ᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛟᛟocccccccccccoooooooooooooooooooooooooooooooooooooooooooooooooooooccooᛟᛟᛟᛝᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱஇஇஇឱocoooooooo:.......
+ᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛟᛟoc:cccccccccooooooooooooooooooooooooooooooooooooooooooooooooooooooccooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱஇஇஇஇoccoooo:.........
+ᛝᛝᛟᛝᛝᛟᛟᛟᛟᛝᛝᛟᛝᛟᛟoc:ccccccccocoooooooooooooooooooooᛟᛟᛟᛟᛟᛝᛝឱᛝឱឱឱឱᛟoooooooooooooooococcooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝஇஇஇஇᛟcoc......::....
+ᛟᛝᛝᛝᛟᛟooᛟᛝᛝᛝᛝᛟᛟoc:cccccccccoooooooooooooooooᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱᛝᛝឱឱឱឱᛝooooooooooooooccoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝஇஇஇஇᛝ:.............
+ᛝᛝᛝᛟoccoᛟᛝᛝᛝᛝᛝᛟo:::cccccccccoooooooooooᛟooooooooooᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱឱឱឱឱឱᛝccoooooooocccooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟஇஇஇ:..............
+ᛝᛝᛟoc:coᛟᛝᛝᛝᛝᛟᛟo::cccccccccccoooooooooᛟcoocoooooooooᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱocccooccoccoᛟᛟᛟᛟᛟᛟooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ:.............:..
+ᛟᛟoc::coᛟᛝᛝᛝᛝᛟᛟo:::ccccccccccooooooooocccooooooooooᛟoᛟᛟᛟᛟᛝᛝឱឱᛝឱឱឱឱឱឱஇஇஇஇஇஇஇ:cccccccooᛟᛟᛟᛟᛟocccoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟo.............::.oᛟ
+ᛟo:ccccᛟᛟᛝᛝᛝᛝᛟᛟo:::cccccccccoooooooooccocooooooooooᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝឱஇஇஇឱஇஇឱឱஇஇஇஇᛟ:cccccooᛟᛟᛟᛟᛟoo:.coᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ:............:::cᛟᛟᛟ
+c:ccc:coᛟᛟᛝᛝᛝᛟᛟo::ccccccccccooooooooccoooccoooooᛟooᛟᛟᛟᛟᛟᛟᛝᛝᛟᛝឱឱឱឱឱឱឱஇឱឱឱឱឱஇஇஇஇo::ccoᛟᛟᛟᛟᛟᛟᛟo:..coᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ.............::cᛟᛟᛟᛟᛝ
+:ccccccoᛟᛝᛝᛝᛝᛟᛟoc:cccccccccccooooᛟcccoococoooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛝឱឱឱឱឱឱឱឱឱឱஇឱஇஇឱឱஇஇஇஇஇஇc::ooᛟᛟᛟᛟᛟᛟo:...:oᛟᛟᛟoᛟᛟᛟo..............:ᛟᛟᛟᛟᛟᛝᛝ
+ccccc:coᛟᛝᛝᛝᛝᛝᛟo::cccccccccccoccឱoccccccoooooᛟooooᛟoocᛝឱឱឱឱឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇஇஇஇஇឱ:coᛟᛟᛟᛟᛟᛟo:.....oឱஇឱឱᛝ:..............cᛟᛟᛟᛟᛝᛝᛝᛟ
+cccccccoᛟᛝᛝᛝᛝᛟᛟo:::ccccccccccccᛟᛝoccoocooooooooooocᛟᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱஇஇᛟ:oᛟᛟᛟᛟᛟᛟc:...ឱஇᛝஇஇஇஇ▓ᛝ............:oᛟᛟᛟᛟᛝᛝᛝᛝᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟo:::cccccccccoocஇᛝcccccoooooooooocᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝឱឱឱឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇឱoᛟᛟᛟᛟᛟoc.ᛟஇឱឱஇஇஇឱឱஇஇஇ...........:ᛟᛟᛟᛟᛟᛟᛝᛟᛝᛟᛟ
+cccccccoᛟᛟᛝᛝᛝᛝᛟo::cccccccccccccឱᛟocccccooooooocᛟᛟᛟᛟᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝឱឱᛝឱឱឱឱឱឱឱᛝឱឱឱឱឱឱឱឱឱឱஇᛝᛟᛟᛟᛟឱஇឱឱஇஇឱឱឱឱឱஇஇஇᛝ..........cᛟᛟᛟᛝᛟᛝᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟo::ccccccccccccឱឱᛟoccccccocoooᛟᛟᛟᛟoᛟᛝᛟᛝᛟᛝᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝឱឱឱᛝឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱᛝឱឱឱឱஇஇឱឱឱឱឱឱឱឱஇஇஇ:.......::oᛟᛟᛟᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟo:::cccccccccccஇᛝᛟᛟooccccoooᛟᛟoᛟoᛟᛟᛟᛟᛟᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝឱᛝᛝឱᛝឱឱᛝឱឱᛝᛝᛝᛝᛟᛝឱᛝឱឱឱឱឱឱឱឱឱឱឱஇᛝᛝឱឱஇឱ.........oᛟᛟᛟᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛝ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc:ccccccccccccஇᛝᛟᛟoᛟcccccᛟooᛟoᛟᛟᛟᛟᛟoᛟᛟᛟᛝᛟᛟᛝᛝᛝᛝᛟᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟឱᛝឱឱஇឱឱឱឱឱឱឱឱឱឱஇஇᛟᛝᛝᛟᛝஇ........:ᛟᛟᛟᛟᛝᛝᛝᛝᛟᛟᛝᛟᛟᛝᛝᛝ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc::cccccccccc:ឱឱᛝᛝᛟᛟoccᛟooᛟoooᛟoooᛟᛟoᛝᛟᛟᛟᛟᛝᛟoooᛟᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝឱᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇஇᛟᛟᛝoᛟஇ:...:...:ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟo:::ccccccccc::இឱឱᛝᛟᛟᛟoooocoᛟoᛟoooᛟoᛟᛟoᛟoocc:ᛟᛝoooccooc:c.ᛟឱᛝᛝឱឱឱឱឱឱឱឱឱឱឱឱஇឱឱឱஇᛝo:ccᛝஇc.......:ᛟᛟᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ccccccooᛟᛝᛝᛝᛝᛝᛟo::ccccccccccc:இஇឱឱooᛟoocoᛟᛟᛟooᛟᛟoᛟᛟᛟoocooc:::cccc::c.. cᛝᛟᛝឱឱឱឱឱឱឱឱឱឱឱឱឱឱஇᛟcccccoᛝឱc.........oᛟᛟᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ccccccooᛟᛝᛝᛝᛝᛝᛟoc::ccccccccccccஇឱឱᛝooocooᛟoooooooᛟoᛟc::c...co:.o:c.c.ᛟᛟᛝឱឱᛝឱឱឱឱឱឱឱឱឱឱឱឱcoᛟᛟᛟᛟᛝᛝᛝឱo.......:..oᛟᛟᛝᛝᛝᛝᛝᛝᛝᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc::ccccccccccccᛟஇឱᛟᛝoooocooooooᛟcc::c:.:..c:.::c.o.ᛝoᛝឱឱឱᛝᛝᛝᛝᛝᛝឱឱឱឱᛝ:.occoᛟᛝᛝᛝឱc...........oᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc::ccccccccccccccឱឱឱᛟooooooooooc::cc...o.c.:cc::oooᛝឱឱឱឱᛝᛝᛝᛝᛝឱឱឱឱឱឱឱᛟc:c:ooᛝᛟ............:cooᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟo:::ccccccccccccccஇஇᛝcooocoooo:.c...::.:.o.....:ocᛝᛝᛝᛝឱᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱឱឱᛝo:.c:oᛟc............cᛟoᛟᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛝᛟᛝᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟᛟc::cccccccccᛟooocឱஇooccooo:::.c.....:.c:.:...ᛟoᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝᛟᛝᛝឱឱឱឱឱឱஇஇឱᛟc..:ᛟᛝ...:..:.....:ᛟoᛟᛝᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc:cccccccccoooooocஇocooooc.:..::....:.c:.ᛟ ᛟoᛝᛝឱᛝᛟᛝឱᛝᛝᛝᛟᛝᛝᛝឱឱឱឱឱឱឱஇஇஇឱo:..:ᛝo.....:.....ᛟᛟᛟᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc::cccccccccoooooᛟoᛝoooo.o.o..:c:.:..c.:.ccᛝᛝᛝᛝឱឱᛝᛝᛝᛟᛝᛝᛝᛝᛝᛝᛝឱឱឱឱឱឱឱஇஇឱᛟc..:ᛟo:::.:.:...oᛟoᛝᛝᛝᛟᛝᛝᛝᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+cccccccoᛟᛝᛝᛝᛝᛝᛟoc::cccccccccooooᛝ..oᛟo:.c.:ᛟ .:....:.::.ᛟoᛝᛝឱᛟᛝឱឱoᛟᛟoc::oᛝᛝᛝᛝឱឱឱឱឱឱឱᛟoc:...cᛟ..::.....cᛟoᛟᛝᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟo
+cccccc:oᛟᛝᛝᛝᛝᛝᛝᛟc::cccccccccoᛟᛟᛟᛟᛟᛟ:.::o.::.:...c......oᛝᛝឱឱᛝឱoc:::.:.:coooᛟᛟᛝឱឱឱᛟo:..:::..:ᛝc..:.....ᛟᛟᛟᛝᛝᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟ
+ccccc::oᛟᛝᛝᛝᛝᛝᛟoc:cccccccc:ᛝᛟᛟᛟᛟᛟ:..c.:.oo....:....:.:oឱᛝᛝឱឱᛟ:..::.:ឱឱ:coooᛟᛟᛝஇឱ:..ᛟᛝ:......ᛝc::.....oᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟo
+ccccc::oᛟᛝᛝᛝᛝᛝᛟoc:cccccc:ccᛝᛝ▓o:..c:.:c:oᛟ....:.....ocᛝᛝឱឱᛝooᛟoccooᛝឱឱᛟoooooᛟឱஇcoooᛝᛝc....:.ឱ:c:....:ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛟᛝᛝ
+cccc:::cᛟᛝᛝᛝᛝᛝᛝoc:ccccooᛟᛟc:c...ᛟoc..:ocoᛟo....... ocᛝᛝឱᛝcooᛟᛟᛟᛟᛟᛟoᛟᛟᛟᛟᛟooooᛟឱஇᛝᛟoooccc...:.ᛝoc.....ooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛝឱឱឱឱឱ
+cc:c::.cᛟᛝᛝᛝឱᛝᛝᛟc:ccccocᛟoᛟc..cocc:..cc:ooc:......ᛟcᛝឱឱ:ccoᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛝᛝᛟᛟᛟooᛟឱஇឱᛝᛟᛟoooc:.::.ᛝᛟ:....cᛟoᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛝឱឱឱឱឱឱឱឱ
+::::::.cᛟᛝᛝᛝᛝᛝᛝᛟc:cccooccc:.:c:o::.....c:.cᛟc....ᛟoឱឱᛟ.:coooᛟᛟᛟᛝᛝᛝឱᛝᛝᛝᛟᛟᛟᛟoooᛝஇឱᛝᛟᛟᛟooo...:.ᛟᛟ.....oᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟᛝឱឱឱឱឱឱឱឱឱ
+::::::.cᛟᛝᛝᛝᛝᛝᛟᛟc:occoᛟc:ᛟc:.::ᛟᛟ.::...:..cocᛟ..ocឱឱ:.::coooᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝᛟᛟoooooᛟஇஇᛝᛟᛟᛟooc...:.ᛟᛟo...oᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟឱឱឱឱឱឱឱஇஇឱឱ
+:::::..cᛟᛝᛝᛝᛝᛝᛝᛟc::cooo.cccc:coo:.....c::o:c...ooឱឱ...c:cooooᛟᛟᛟᛟᛟᛟᛝᛝᛟᛟooooooᛟᛝஇᛝᛟᛟᛟoo..::: cᛝᛟ..:ᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟឱឱឱឱឱឱஇஇஇஇஇឱ
+c:::::.cᛟᛝᛝᛝᛝᛝᛝᛟcccccoc:cc::c.o:ᛟc.......c:...ᛝᛝᛝᛝ....c:cooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooooᛝឱᛟᛟᛟᛟo:...::..ᛝᛟ..oᛟᛟᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱឱឱឱឱឱឱஇஇஇஇஇஇ
+:::::::oᛟᛝᛝᛝᛝᛝᛝᛟc:ccoo:::.:cc:c:ccc..ᛟ..c.coocoឱ:.::..o:coooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooooᛝឱᛝᛟᛟoo:....::..ᛟoc:ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝឱឱឱឱஇஇஇஇஇஇஇஇஇ
+::::::coᛟᛝᛝᛝᛝᛝᛝᛟc::coo::cc:.:::ocᛟᛟ:c:..:ᛟᛝឱccᛝ....:..ccooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟឱᛝឱឱᛝᛟᛟo:...:::...cᛟ:oᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝឱឱឱஇஇஇஇஇஇஇஇஇஇ
+:::::::oᛟᛝᛝᛝᛝᛝᛝᛟc::oco:.c:::::::c.oo:.oᛝᛟឱᛟcoc.c...:..cccooooᛟoᛟoᛟᛟoᛟᛟᛟᛟᛟᛟᛟᛝឱᛝᛝᛝoᛟ:....:::::.:ᛝcᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟឱឱឱஇஇஇஇஇஇஇஇஇஇஇ
+..::::coᛟᛝᛝᛝᛝᛝᛝᛟcoccᛟo.:.:::.occc:ᛟ::ooஇஇccឱ....:...:.c::cooooᛟoᛟᛟoocccoooooᛟooᛟᛟ:......::::..ᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛝឱஇஇஇஇஇஇஇஇஇஇஇஇஇ
+.....:coᛟᛝᛝᛝᛝᛝᛝᛝc::ᛟc:.o..cc:ᛟo:.ocoᛟᛟcஇoᛝc..:......:.:::ccooooooᛟᛟᛟooooooᛟᛟoᛟᛟᛟ:.....:.:c:...ᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛝஇஇஇஇஇஇஇஇஇஇஇஇឱឱ
+.....ccoᛟᛝᛝᛝᛝᛝᛝᛟc:occ:::.:..ᛟᛟ:ᛟoo:o:ooឱឱ.........:.::..:::cccoooooooooᛟᛟᛟᛟᛟᛟoᛟ.:.......:c:::.ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛝஇஇஇஇஇஇஇஇஇஇஇஇஇஇ
+....:ccoᛟᛝᛝᛝᛝᛝᛝᛟc:cc::o..c..cc:oᛟocᛟccoᛝ:....:.........::.:.:ccooooᛟᛟᛟᛝᛝᛝᛝᛝᛝᛟᛟ.:...:.:.:cc:::.ᛝᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooឱஇஇஇஇஇஇஇஇஇஇஇஇឱឱ
+.....:coᛟᛝᛝᛝᛝᛝᛝᛟc.ᛟc.:::::..cᛟ::coooᛟᛟᛟᛟ....::.:......:.:.::...::ccooᛟᛟᛟᛝᛟᛟᛟᛟo...:.:...:cc:c::ᛝᛝooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooᛟஇஇஇஇஇஇஇஇஇឱឱᛝc..
+.:...::cᛟᛟᛝᛝᛝᛝᛝoឱc:o..c.:...:oᛟc.oᛟccᛟo.ᛝᛟ..::.:.......:...:coooooooᛟᛟᛟᛟᛟᛟᛟᛝឱឱឱឱo:.....:cc:c::ᛝᛟooooooooooooᛟoooᛝஇஇஇឱஇஇឱឱᛝo...::
+ooc:::.:oᛟᛝᛝᛝᛝᛝᛟcoᛝ....o .o::.ooco.cooooᛝ::..:.:........:...cooooooooᛟᛟᛟᛟᛟᛝᛝឱឱឱឱឱឱஇஇc..:c:::::ᛝᛟᛟᛟᛟᛟoooocccccoc:ᛝஇឱஇஇஇឱឱo.::::cc
+oᛟᛟᛟoc.:oᛟᛝᛝᛝᛝᛝᛟஇc:.....:c:.:o.c::.ccoᛟᛟcccc...:....:..::c..cooooooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱឱឱஇஇឱ.c.::::ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooooocឱஇஇஇஇឱᛟ.:cc:cccc
+:oᛟᛝᛝo.:oᛟᛝᛝᛝᛝᛝᛟo:....::..c:..:.c.::ccᛟooc.ᛟឱ..:....:..::oc.coooooᛟᛟoᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝᛝឱឱឱឱஇஇஇஇo....oᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooᛟoᛝஇஇஇஇឱᛟ:ccccccccc
+ .ᛟᛝᛝᛟ:.oᛟᛝᛝᛝᛝᛝᛟc:........o.:..cc.coo::ᛟoo::ᛝ..::...:...coc.cooooooᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝឱឱឱឱឱஇஇஇஇᛝ...ᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟoooᛝឱឱஇஇஇឱᛝcccccoc:ccc
+ .cᛝᛝᛟ:.oᛟᛝᛝᛝᛝᛝᛟᛝc.......oo.......::o::ᛟooo:ᛟo.::....:.:coo.coooᛟoooooᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝឱឱឱឱஇஇஇஇஇo .ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooᛟឱஇឱஇஇஇஇᛝccccoocccccc
+ .cᛟᛝᛟc.oᛝᛝᛝᛝᛝᛝᛟo::....::.c..:...::.:oᛟoocᛟᛝo:..:::...:cooc.cooooᛟoᛟooᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝᛝឱឱឱឱឱஇஇஇஇஇ .ᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoooᛝஇஇஇஇஇஇᛝoccccocccccc:
+ .:ᛟᛝᛝc.cᛟᛝᛝᛝᛝᛝᛟo.........:...:...c.ccoccᛟ.c:.:.:::..:coooc:oooᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱஇஇஇஇஇᛝcᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟooooᛝஇஇឱஇஇឱoocccccccccccc
+...ᛟᛝᛝo.cᛟᛝᛝᛝᛝᛝᛟᛝ::.::...::.::.:.c.::.:o:.oᛟc.......:coooo.cooᛟᛟᛟᛟᛟᛟooooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱஇஇஇஇஇoᛟoooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟoᛟஇஇឱᛟocccc::ccccccc
+. .oᛝᛝᛟ:cᛟᛝᛝᛝᛝᛝᛟo::......:.::.....:cᛟ::.:::o.......:coooo.coooᛟᛟᛟᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱஇஇஇஇஇஇ:::::cccoooᛟᛝᛟooឱஇஇᛝoc::c:ccccccc:.
+...oᛝᛝᛝ:cᛟᛝᛝᛝឱᛝᛟc:.......:.::.:..:..cᛟcccc........:ccooc.coᛟᛟooᛟoᛟᛟᛟᛟᛟᛟoooᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱஇஇஇஇcccccc::....ᛟឱឱᛝஇஇᛝc:::::ccc:cccc:.
+cccoᛝឱᛝccᛟᛝᛝᛝឱᛝᛟcc..........:.:...:.:::co:.......:ccoc.:cooooᛟooᛟᛟᛟᛟᛟᛟᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝឱឱឱឱឱஇஇஇஇஇ:coccc:::..ᛟឱឱឱឱᛟ..:::ccc::cccc:::
+.ccoᛝᛝᛝccᛟᛝᛝᛝᛝᛝᛟc:......:..:::c..c....cᛟ::......::..:ccooooᛟooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱஇஇஇஇᛟ:cccccccccᛟឱᛝc:::::ccc:::coccc:::
+..:cᛟᛝᛝocᛟᛝᛝᛝᛝᛝᛟ:.....:::..c..co.:o.:c:c:c.:...:cccooooooooooooᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱஇஇஇஇ:cccoooooccccccc::ccc:::coocc:...
+..::ᛝឱឱឱcᛟᛝᛝᛝᛝᛝᛟ:....:::.c.o..o:ᛟ.:..cc:oc. .:ccccooooooooooooᛟoᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛟᛝᛝᛝᛝឱឱឱឱឱஇஇஇᛟ:cccooooocooocccccc::coooc:...::
