@@ -47,10 +47,10 @@ Here are some results:<br>
 ![v](https://github.com/user-attachments/assets/399d232d-9a27-44dc-bf9e-0551013b7f91)
 ![e e k e h](https://github.com/user-attachments/assets/4a8b4f39-b11e-42f9-8804-2d02f82757f0)
 ![c g c c c](https://github.com/user-attachments/assets/97105130-f8f3-47eb-931c-9cd58d735479)<br>
-https://github.com/user-attachments/assets/c194f818-ba1b-4bca-ab25-6db9acef4409
-https://github.com/user-attachments/assets/bc4ce5b1-68ae-42d7-a113-dfe724253d01
-https://github.com/user-attachments/assets/8172f209-7480-4599-9a64-5c426c0a02f4
-https://github.com/user-attachments/assets/fd0c42b0-838d-4be6-b927-b005d09e115b
+https://github.com/user-attachments/assets/c194f818-ba1b-4bca-ab25-6db9acef4409<br>
+https://github.com/user-attachments/assets/bc4ce5b1-68ae-42d7-a113-dfe724253d01<br>
+https://github.com/user-attachments/assets/8172f209-7480-4599-9a64-5c426c0a02f4<br>
+https://github.com/user-attachments/assets/fd0c42b0-838d-4be6-b927-b005d09e115b<br>
 https://github.com/user-attachments/assets/d0dbe574-4c66-4dd2-bf45-a3770d48ce9e<br>
 
 
