@@ -36,19 +36,19 @@ C. Temporal threshold pixel eater<br>
 D. Temporal motion extractor<br>
 ## Examples
 Here are some results:<br>
-![a1](https://github.com/user-attachments/assets/bb4218bd-27c4-4e43-ad35-cd1c10830c02)
-![a2](https://github.com/user-attachments/assets/2cc888a0-fc7c-41ab-8348-3cbb29019fea)
-![a3](https://github.com/user-attachments/assets/c6416e03-ecc7-47f8-8283-763660472c0c)
-![a4](https://github.com/user-attachments/assets/146b2f03-1942-41d8-ad82-ca24de3d4621)
-![a5](https://github.com/user-attachments/assets/6f26dccd-e8bb-44e2-b150-3a61b3790f42)
-![a6](https://github.com/user-attachments/assets/e176b905-74f7-4ff9-93e1-962e6f7731ec)
-![a8](https://github.com/user-attachments/assets/4791f975-e96e-4243-a490-26a980be2227)
-![a9](https://github.com/user-attachments/assets/84f0a628-d58b-4c5a-b2fe-d995b6bd8e48)
-![a10](https://github.com/user-attachments/assets/0e4a832d-8c5e-45e6-b179-e3a03acfd60e)
-![a11](https://github.com/user-attachments/assets/e4d49c43-2329-48c9-bc46-a866235a3796)<br>
-https://github.com/user-attachments/assets/8b1585a2-22e0-4b42-a1af-6e451815a81e<br>
-https://github.com/user-attachments/assets/0e05756b-3619-477d-8ff1-54ae9b47823d<br>
-https://github.com/user-attachments/assets/8505628b-0051-4cff-8351-bda5a87975d2<br>
-https://github.com/user-attachments/assets/2b8bbf08-94c0-4a23-bce2-50d709fbf6a4<br>
+![a1](https://github.com/user-attachments/assets/089fa0e6-589e-472b-a575-29240d30a71e)
+![a2](https://github.com/user-attachments/assets/82b17444-480b-49cd-a470-7ca4becc5d98)
+![a3](https://github.com/user-attachments/assets/7ae1fa0a-3d64-4c6b-8e61-4c4c08afd032)
+![a4](https://github.com/user-attachments/assets/92e03d85-0e02-427f-9ab1-b831c5981113)
+![a5](https://github.com/user-attachments/assets/faa53fd3-9692-4c87-bd6f-53739c4c5daa)
+![a6](https://github.com/user-attachments/assets/d01a14a9-6f15-49b2-8175-02cdcfbd2150)
+![t h(10)](https://github.com/user-attachments/assets/9e1dbddc-bdab-4322-ad7d-d8fcb7f38edc)
+![s17](https://github.com/user-attachments/assets/4e7bf70c-3223-498b-976b-e020ed4e3b9e)
+![s15](https://github.com/user-attachments/assets/b8029b06-1312-48fd-9bea-3476c21a7ac5)
+![s12](https://github.com/user-attachments/assets/e2dc6f77-49fa-4620-a4a4-b61278825075)<br>
+https://github.com/user-attachments/assets/e064976b-7e1f-4241-8e4a-5bf8a7748c7c<br>
+https://github.com/user-attachments/assets/49705afc-18da-435a-b2e9-7dbc48dd832e<br>
+https://github.com/user-attachments/assets/eeaa44fc-6683-4210-b947-29b4884d669c<br>
+
 
 
