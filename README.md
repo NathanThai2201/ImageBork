@@ -7,8 +7,8 @@ Currently this applet supports:
 
 > **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Transforms**<br>
 A. Height and width scaling<br>
-B. Left right or up down flip<br>
-C. Clockwise rotation <br>
+B. Horizontal or vertical flip<br>
+C. 90 degree rotation <br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II. Filters**<br>
 D. Frequency modulation<br>
 E. Kuwahara filter<br>
